@@ -1,0 +1,285 @@
+origUnit,mapUnit
+C,DEG_C
+oC,DEG_C
+1/ha,HA
+1/m2,PER-M2
+cm2,CentiM2
+(cm2),CentiM2
+cm 2,CentiM2
+cm^2,CentiM2
+cm2/gDW,CentiM2-PER-GM
+cm-2 g,CentiM2-PER-GM
+cm2.g,CentiM2-PER-GM
+cm,CentiM
+(cm),CentiM
+Cm,CentiM
+cm per 6 month,CentiM
+cmol,CentiMOL
+cmolc kg-1,CentiMOL-PER-KiloGM
+cmol/kg(1/2Ca2+),CentiMOL-PER-KiloGM
+cmol/kg(1/2MG2+),CentiMOL-PER-KiloGM
+cmol kg-1,CentiMOL-PER-KiloGM
+cmol+/kg,CentiMOL-PER-KiloGM
+cmol/kg,CentiMOL-PER-KiloGM
+decimal degrees,DEG
+decimal degrees (WGS84),DEG
+decimal degress WGS83,DEG
+decimal degress WGS84,DEG
+deg C,DEG_C
+degC,DEG_C
+deg,DEG
+deg. East,DEG
+deg. North,DEG
+degree,DEG
+Degree,DEG
+degree N,DEG
+degrees C,DEG_C
+degrees,DEG
+dimensionless,UNITLESS
+dm2,DeciM2
+dS m-1,DeciS-PER-M
+dS/m,DeciS-PER-M
+feet,FT
+mmВ,MilliM2
+W7m2,W-PER-M2
+ЕScm-1,MicroS-PER-CentiM
+g/1000,MilliGM
+ug N / g soil (6 weeks),MicroGM-PER-GM
+g_cm3-1,GM-PER-CentiM3
+g / cm3,GM-PER-CentiM3
+g cm-3,GM-PER-CentiM3
+g*cm-3,GM-PER-CentiM3
+g/cm^3,GM-PER-CentiM3
+g/cm3,GM-PER-CentiM3
+g/dm3,GM-PER-CentiM3
+g g-1,GM-PER-GM
+g/g,GM-PER-GM
+g N g-1 DW,GM-PER-GM
+g P g-1 DW,GM-PER-GM
+g,GM
+g ?,GM
+(H2O),PH
+H2O,PH
+ha-1,NUM-PER-HA
+stems ha-1,NUM-PER-HA
+trees ha-1,NUM-PER-HA
+gC gN-1,NUM
+g  kg-1,GM-PER-KiloGM
+gC kg-1,GM-PER-KiloGM
+gN kg-1,GM-PER-KiloGM
+g kg-1,GM-PER-KiloGM
+g/kg,GM-PER-KiloGM
+g  m-2,GM-PER-M2
+g m2,GM-PER-M2
+g m-2,GM-PER-M2
+g m2,GM-PER-M2
+g.m2,GM-PER-M2
+g/m^2,GM-PER-M2
+g/m2,GM-PER-M2
+gm-2,GM-PER-M2
+(g m-2),GM-PER-M2
+gm/kg,GM-PER-KiloGM
+g / ml,GM-PER-MilliL
+grad,GRAD
+gr/cm3,GM-PER-CentiM3
+gr,GM
+gЗcm-3,GM-PER-CentiM3
+gЗkg-1,GM-PER-KiloGM
+ha,HA
+h,HR
+hour,HR
+hours,HR
+J/m3/K,J-PER-M3-K
+kg dm-3,KiloGM-PER-DeciM3
+kg/ha,KiloGM-PER-HA
+kg/kg,KiloGM-PER-KiloGM
+kg/m2,KiloGM-PER-M2
+kg m-3,KiloGM-PER-M3
+kg/m3,KiloGM-PER-M3
+km,KiloM
+kPa,KiloPA
+m2 g-1,M2-PER-GM
+m2/g,M2-PER-GM
+m2/ha,M2-PER-HA
+m-2 kg-1,M2-PER-KiloGM
+m^2*kg^-1,M2-PER-KiloGM
+m2 kg-1,M2-PER-KiloGM
+m2kg-1,M2-PER-KiloGM
+m2/kg leaf DM,M2-PER-KiloGM
+m^2/kg,M2-PER-KiloGM
+m2/kg,M2-PER-KiloGM
+m2/Kg,M2-PER-KiloGM
+m2 / kg,M2-PER-KiloGM
+m2,M2
+m2 m-2,M2-PER-M2
+m2/m2,M2-PER-M2
+m-2,PER-M2
+m3,M3
+m3 m-3,M3-PER-M3
+m above sea,M
+m a.s.l.,M
+m asl,M
+m. (a.s.l.),M
+m.a.s.l,M
+m.a.s.l.,M
+masl,M
+meter,M
+Meter,M
+m,M
+meters above ground,M
+mg/cm2,MilliGM-PER-CentiM2
+mg/cm3,MilliGM-PER-CentiM3
+mg g-1,MilliGM-PER-GM
+mg_g-1,MilliGM-PER-GM
+mgg-1,MilliGM-PER-GM
+(mg g-1),MilliGM-PER-GM
+mg/g dry mass,MilliGM-PER-GM
+mg/g DW,MilliGM-PER-GM
+mg / g,MilliGM-PER-GM
+mg/g,MilliGM-PER-GM
+mg kg1,MilliGM-PER-KiloGM
+mg kg-1,MilliGM-PER-KiloGM
+mg Kg-1,MilliGM-PER-KiloGM
+mg/kg,MilliGM-PER-KiloGM
+mg/kg soil,MilliGM-PER-KiloGM
+(mg),MilliGM
+mg,MilliGM
+mg N g-1Leaf,MilliGM-PER-GM
+mg N g-1,MilliGM-PER-GM
+mgN gDM-1,MilliGM-PER-GM
+mgN/kgH2O,MilliGM-PER-KiloGM
+mgP2O5 kg-1,MilliGM-PER-KiloGM
+mg per kg soil,MilliGM-PER-KiloGM
+mg per seed,MilliGM
+mgP gDM-1,MilliGM-PER-GM
+mg/seed,MilliGM
+micro g-C g-1,MicroGM-PER-GM
+micro g dw g-1 soil,MicroGM-PER-GM
+micro g g-1,MicroGM-PER-GM
+microg/g,MicroGM-PER-GM
+micro g-N g-1,MicroGM-PER-GM
+micro g(P)/g(DM),MicroGM-PER-GM
+micromoles/m2/s,MicroMOL-PER-M2-SEC
+micro mol m2 s1,MicroMOL-PER-M2-SEC
+micro mol m-2 s-1,MicroMOL-PER-M2-SEC
+micro mol m2 s-1,MicroMOL-PER-M2-SEC
+micro mol/m2/s1,MicroMOL-PER-M2-SEC
+micromol m-2 s-1,MicroMOL-PER-M2-SEC
+micromolm-2s-1,MicroMOL-PER-M2-SEC
+micromol/m2/s1 PAR,MicroMOL-PER-M2-SEC
+"m,icromol/m2/s",MicroMOL-PER-M2-SEC
+micro mol m2 s,MicroMOL-PER-M2-SEC
+micro mol/m2/s,MicroMOL-PER-M2-SEC
+micromol/m2/s,MicroMOL-PER-M2-SEC
+micro mol / m2 / s,MicroMOL-PER-M2-SEC
+micromol/m2/s PAR,MicroMOL-PER-M2-SEC
+micromol,MicroMOL
+micromol mol-1,MicroMOL-PER-MOL
+micro mol s-1 m-2,MicroMOL-PER-M2-SEC
+micro mol s-1,MicroMOL-PER-SEC
+micro mols m-2 s-1,MicroMOL-PER-M2-SEC
+micro mol/s,MicroMOL-PER-SEC
+micro S cm-1,MicroS-PER-CentiM
+micro S/cm,MicroS-PER-CentiM
+min,MIN
+ml,MilliL
+m,M
+m,M
+mm2,MilliM2
+mm^2,MilliM2
+mm a-1,MilliM-PER-YR
+mm m-1,MilliM-PER-M
+(mm),MilliM
+mm,MilliM
+mm ?,MilliM
+mmol/g,MilliMOL-PER-GM
+mmol/kg,MilliMOL-PER-KiloGM
+mmol/l,MilliMOL-PER-L
+mmol mol-1,MilliMOL-PER-MOL
+mm/year,MilliM-PER-YR
+mm/y,MilliM-PER-YR
+mm / yr,MilliM-PER-YR
+mm/yr,MilliM-PER-YR
+mol m-2 d-1,MOL-PER-M2-DAY
+molm-2d-1,MOL-PER-M2-DAY
+mol m-2 day-1,MOL-PER-M2-DAY
+mol/m2/day,MOL-PER-M2-DAY
+mol m-2 s-1,MOL-PER-M2-SEC
+mol m-2s-1,MOL-PER-M2-SEC
+mol/m3,MOL-PER-M3
+mol photon m-2,MOL-PER-M2
+?mol mol-1,MOL-PER-MOL
+month from Jan1st,MO
+mo,MO
+month,MO
+months,MO
+MPa,MegaPA
+m s-1,M-PER-SEC
+mV,MilliV
+no unit,UNITLESS
+Pa,PA
+%,PERCENT
+% (?),PERCENT
+%?,PERCENT
+(%),PERCENT
+% (100 * g g-1 ),PERCENT
+% by wt,PERCENT
+% field capacity,PERCENT
+% full sun,PERCENT
+mass%,PERCENT
+% mass/mass,PERCENT
+% of ECEC,PERCENT
+%DM,PERCENT
+% dry mass,PERCENT
+%wt,PERCENT
+percent,PERCENT
+ppm,PPM
+SLA cm2/g,CentiM2-PER-GM
+umol m-2 s-1,MicroMOL-PER-M2-SEC
+umol/m2/s,MicroMOL-PER-M2-SEC
+umol mol-1 also the same as CO2 sample,MicroMOL-PER-MOL
+umol mol-1,MicroMOL-PER-MOL
+umol photons / m2 / sec,MicroMOL-PER-M2-SEC
+1/g,PER-GM
+1/kg,PER-KiloGM
+1/lb,PER-LB
+1/lb (lb~454g),PER-LB
+"1/liter (liter~1,7kg)",PER-L
+1/pound,PER-LB
+W,W
+(Wh m-2),W-HR-PER-M2
+w/m2,W-PER-M2
+W m-2,W-PER-M2
+W/m2,W-PER-M2
+year/month,YR/MO
+years *see notes,YR
+years,YR
+Years,YR
+year,YR
+Year,YR
+yrs,YR
+yr,YR
+y,YR
+weeks,WK
+day,DAY
+days,DAY
+(cm2/g)/100,CentiM2-PER-GM
+cm2 g-1,CentiM2-PER-GM
+(cm2 g-1),CentiM2-PER-GM
+cm2*g-1,CentiM2-PER-GM
+cm2.g-1,CentiM2-PER-GM
+cm^2 g^-1,CentiM2-PER-GM
+(cm2/g),CentiM2-PER-GM
+cm2 / g,CentiM2-PER-GM
+cm2/ g,CentiM2-PER-GM
+cm2/g,CentiM2-PER-GM
+cm^2/g,CentiM2-PER-GM
+cm2/g (n.r.),CentiM2-PER-GM
+cm3/g,CentiM3-PER-GM
+cm3,CentiM3
+(g/cm2),GM-PER-CentiM2
+g cm-2,GM-PER-CentiM2
+g/cm2,GM-PER-CentiM2
+micro m,MicroM
+micro mol m-2 s-1,MicroMOL-PER-M2-SEC
+permil,PPTH

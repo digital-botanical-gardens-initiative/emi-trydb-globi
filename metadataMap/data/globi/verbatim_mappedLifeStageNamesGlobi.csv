@@ -1,0 +1,1973 @@
+Input Term,Best Match,URI,Similarity Score
+?,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4588
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+0+,lead(0),http://purl.obolibrary.org/obo/CHEBI_27889,0.5235
+-0-I,h minus,http://purl.obolibrary.org/obo/PATO_0001345,0.5080
+0 I,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4736
+0&I,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4706
+0+I,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5523
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+0-I,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4884
+0 & I,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4706
+0 + I,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5523
+0 - I,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4884
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I.,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4713
+0I,platinum(0),http://purl.obolibrary.org/obo/CHEBI_33400,0.4938
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+0-I-II,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5268
+0-III,"buta-1,3-diene",http://purl.obolibrary.org/obo/CHEBI_39478,0.5299
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+0. I. III.,lead(0),http://purl.obolibrary.org/obo/CHEBI_27889,0.4318
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+0 I II III,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4818
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0-I; II-III,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4801
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+I-II,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5953
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+0 Larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8501
+0-V,V-shaped,http://purl.obolibrary.org/obo/PATO_0002224,0.5139
+1,digit 1,http://purl.obolibrary.org/obo/UBERON_0006048,0.5536
+10-14 years,life span,http://purl.obolibrary.org/obo/PATO_0000050,0.5506
+>10-15 g,weight,http://purl.obolibrary.org/obo/PATO_0000128,0.4870
+102 adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.4897
+133 juveniles,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.6910
+<10 g,weight,http://purl.obolibrary.org/obo/PATO_0000128,0.4648
+1,digit 1,http://purl.obolibrary.org/obo/UBERON_0006048,0.5536
+2-2 years,life span,http://purl.obolibrary.org/obo/PATO_0000050,0.4599
+13 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7490
+15-18 years,age,http://purl.obolibrary.org/obo/PATO_0000011,0.6417
+>15-20 g,normal amount,http://purl.obolibrary.org/obo/PATO_0002050,0.4819
+16 adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6847
+4 juneniles,mesomere 4,http://purl.obolibrary.org/obo/UBERON_4200162,0.4506
+18-73,29-13 cell,http://purl.obolibrary.org/obo/BTO_0004635,0.5085
+>18 years,age,http://purl.obolibrary.org/obo/PATO_0000011,0.6137
+1 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7479
+1 Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7479
+1 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7479
+1 juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8201
+1 Adult | 1 Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.5696
+1 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7479
+2 juveniles,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7168
+1 Imm,obsolete MeM1,http://purl.obolibrary.org/obo/UBERON_2005216,0.5241
+1 juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8201
+1 Larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8875
+1. Protospores. 2. Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6385
+1 Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8020
+1 Pupa | 1 Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.6828
+1 year old,age,http://purl.obolibrary.org/obo/PATO_0000011,0.6285
+2018,season,http://purl.obolibrary.org/obo/ENVO_03000096,0.4441
+20 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7631
+>20 g,weight,http://purl.obolibrary.org/obo/PATO_0000128,0.4653
+22-81,11-9-1-4 cell,http://purl.obolibrary.org/obo/BTO_0002603,0.4659
+2 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6903
+2 Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6121
+2 Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6121
+1 Immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.7923
+2 adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6121
+1 nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8179
+35 - 40 years,life span,http://purl.obolibrary.org/obo/PATO_0000050,0.6114
+3-6 years,life span,http://purl.obolibrary.org/obo/PATO_0000050,0.5610
+3 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6829
+3 immatures,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.6572
+1 egg,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.8091
+3 months,life span,http://purl.obolibrary.org/obo/PATO_0000050,0.4893
+3 nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7855
+1 male,male,http://purl.obolibrary.org/obo/PATO_0000384,0.7670
+3 nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7855
+2 larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8636
+5,digit 5,http://purl.obolibrary.org/obo/UBERON_0006052,0.6710
+50,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5446
+57 years,life span,http://purl.obolibrary.org/obo/PATO_0000050,0.6212
+5 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7056
+5 Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.7475
+5th stage nymph,nymph stage,http://purl.obolibrary.org/obo/UBERON_0014405,0.9001
+>6 Weeks Old,fetus,http://purl.obolibrary.org/obo/BTO_0000449,0.5288
+7-9 years,life span,http://purl.obolibrary.org/obo/PATO_0000050,0.5697
+7 adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7054
+7 Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.5888
+1 Pupae,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.7114
+a,anus,http://purl.obolibrary.org/obo/UBERON_0001245,0.5547
+A,anus,http://purl.obolibrary.org/obo/UBERON_0001245,0.5547
+Abundant sporulation,copulation,http://purl.obolibrary.org/obo/GO_0007620,0.5205
+Acantella,acrisol,http://purl.obolibrary.org/obo/ENVO_00002234,0.6428
+active,active,http://purl.obolibrary.org/obo/PATO_0002354,1.0000
+acult,acinar,http://purl.obolibrary.org/obo/PATO_0002422,0.6616
+adlt,adjuvant,http://purl.obolibrary.org/obo/CHEBI_60809,0.6444
+adolescaria,Eupercaria,http://purl.obolibrary.org/obo/NCBITaxon_1489922,0.6682
+adullt,ADP,http://purl.obolibrary.org/obo/CHEBI_16761,0.6452
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+adult;;,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8254
+adult;;;,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7638
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Adult ?,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8676
+Adult.,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.9566
+Adult\\,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8615
+ADULT,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Àdult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+adult >14 g,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6764
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+adult | adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.9230
+adult adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.9577
+adult; adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.9528
+adult; adult;;,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8825
+adult; adult;;;,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8431
+adult;; adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.9016
+adult;adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.9528
+adult; adult; adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8989
+adult; adult; adult;;,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8479
+adult; adult; adult; adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8530
+adult; adult; adult; adult; adult; adult; adult; adult; adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7110
+adult | adult | adult | nymph,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6840
+adult; adult; egg,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7634
+adult; adult; eggs,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7059
+adult; adult; embryo,embryo,http://purl.obolibrary.org/obo/UBERON_0000922,0.7007
+adult; adult; immature,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8675
+adult; adult; juvenile,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8428
+adult; adult; larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.7544
+adult; adult; larvae,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.7274
+adult; adult; microfilaria,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.6744
+adult; adult; microfilariae,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.7110
+adult; adult; young,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8948
+adult; adult; young;;;,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8277
+adult and eggs,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.6682
+Adult and Juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8382
+adult and larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8098
+Adult and Nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7314
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Brood,brood viability,http://purl.obolibrary.org/obo/PATO_0001497,0.8715
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Brood,brood viability,http://purl.obolibrary.org/obo/PATO_0001497,0.8715
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+caterpillar,caterpillar stage,http://purl.obolibrary.org/obo/UBERON_0014864,0.7834
+adult; cystacanth,Cyrtacanthacridinae,http://purl.obolibrary.org/obo/NCBITaxon_37267,0.6203
+adult; cystacanths,Cyrtacanthacridinae,http://purl.obolibrary.org/obo/NCBITaxon_37267,0.6565
+adult; egg,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7649
+adult; eggs,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7122
+adult;egg(s),egg,http://purl.obolibrary.org/obo/BTO_0000369,0.6898
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+egg sac,yolk sac,http://purl.obolibrary.org/obo/UBERON_0001040,0.7901
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Egg sac,yolk sac,http://purl.obolibrary.org/obo/UBERON_0001040,0.7901
+adult; embryo,embryo,http://purl.obolibrary.org/obo/UBERON_0000922,0.7703
+adult; embryos,embryo,http://purl.obolibrary.org/obo/UBERON_0000922,0.8024
+adult female,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8373
+Adult Female,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8373
+adult female - alate queen,alate adult,http://purl.obolibrary.org/obo/BTO_0004984,0.6034
+adult female - dealate queen,female gamete,http://purl.obolibrary.org/obo/CL_0000675,0.5258
+adult female - worker,female,http://purl.obolibrary.org/obo/PATO_0000383,0.6100
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+imm.,immobile,http://purl.obolibrary.org/obo/PATO_0000300,0.4478
+Adult. imm,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8154
+adult | immature,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8330
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+adult; immature,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8581
+adult; immature;;,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7937
+adult;immature,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8581
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+immatures,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8741
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Immatures,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8741
+adult | juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8514
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,1.0000
+adult; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8917
+adult; juvenile;;,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8673
+adult;juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8917
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,1.0000
+Adult | Juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8514
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,1.0000
+adult; juvenile; subadult,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7687
+Adultl,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7517
+adult; L4,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8090
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+adult; larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8186
+adult;larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8186
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+adult; larvae,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.7097
+adult;; larvae,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.7219
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Larval,larval,http://purl.obolibrary.org/obo/PATO_0001185,1.0000
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Larval case,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8359
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Larval case,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8359
+Larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+adult; larva; nymph,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.7075
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+leaf with pupae,leaf,http://purl.obolibrary.org/obo/PO_0025034,0.7252
+adult male,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8705
+Adult male,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8705
+Adult Male,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8705
+adult; mature,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8820
+adult; metacercariae,metacercaria,http://purl.obolibrary.org/obo/UBERON_0018385,0.7457
+adult; microfilariae,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.6710
+adult | nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.6983
+Adult & nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7278
+Adult & Nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7278
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+Nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8749
+adulto,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6843
+Adulto,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6843
+adult; over-winter,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7333
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+penultimate,final leaf,http://purl.obolibrary.org/obo/BTO_0002812,0.5353
+Adult plant,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.7232
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+adult; pupa,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7114
+Adult & Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.7316
+Adult;Pupa,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7114
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+pupal case,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,1.0000
+Adult + Pupal Case,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,0.8049
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+,right,http://purl.obolibrary.org/obo/PATO_0000367,0.5217
+pupal case,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,1.0000
+eggs?,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.8083
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+pupal case on twig,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,0.7570
+adult; pupal skin,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.5925
+Adult;Queen,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7925
+adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Adult(s),adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8790
+Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Adults alone,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6183
+adults and immature stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8216
+Adults and Larvae,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.6523
+adults and nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.5948
+Adults and nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.5948
+adults and nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.5948
+some larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7169
+Adults and undescribed nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.6924
+Adults and undetermined immature stages,post-juvenile adult stage,http://purl.obolibrary.org/obo/UBERON_0000113,0.7328
+Adult(s),adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8790
+Egg(s),egg,http://purl.obolibrary.org/obo/BTO_0000369,0.8086
+Adult(s),adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8790
+Exuvia,exudate,http://purl.obolibrary.org/obo/UBERON_0007780,0.6049
+Adult(s),adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8790
+Immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+immatures,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8741
+Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Immatures,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8741
+Adults & Immature stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8194
+adults; juveniles,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8134
+Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Juveniles,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8717
+adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+and nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.6730
+adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8749
+Adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8749
+Adult(s),adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8790
+Pupa(e),pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8212
+adult; subadult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7503
+Adult | Subadult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6956
+Adult | subadult | Juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.6987
+Adult | subAdult | Juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.6987
+adult; subadult; subadult; subadult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6061
+adultt,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6780
+Adult Tapeworm,body of tubeworm,http://purl.obolibrary.org/obo/UBERON_0012641,0.5736
+adult; transitional,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7573
+adult unsexed,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6633
+adult- vivip,gravid adult,http://purl.obolibrary.org/obo/BTO_0004733,0.6017
+adult wing,wing,http://purl.obolibrary.org/obo/UBERON_0000023,0.7600
+adult worker,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6662
+Adult worker,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6662
+Adult Worker,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6662
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+young,young,http://purl.obolibrary.org/obo/PATO_0000309,1.0000
+adut,ADP,http://purl.obolibrary.org/obo/CHEBI_16761,0.6184
+Adutl,ADP,http://purl.obolibrary.org/obo/CHEBI_16761,0.6066
+aecia,aeciospore,http://purl.obolibrary.org/obo/FAO_0000054,0.7224
+Aecia,aeciospore,http://purl.obolibrary.org/obo/FAO_0000054,0.7224
+aecial,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.6398
+aecial galls,Gallus,http://purl.obolibrary.org/obo/NCBITaxon_9030,0.7097
+aecial stage,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.6912
+aecidia,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.7944
+Aecidia only,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.7148
+aecidiospores,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.6837
+Aecidiospores,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.6837
+aecidium,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.8149
+(Aecidium),aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.7565
+Aecidium,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.8149
+Aecidium!,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.7776
+Aecidium and teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6440
+Aecidium and teleutospores.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6619
+Aecidium form,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.6096
+"""Aecidium"" I",aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.7590
+(Aecidium.) III.,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.6319
+Aecidium & Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6545
+aerial,aerial part,http://purl.obolibrary.org/obo/BTO_0001658,0.8508
+after hatching year,hatching,http://purl.obolibrary.org/obo/GO_0035188,0.7560
+Aged 46-76 days,normal age,http://purl.obolibrary.org/obo/PATO_0045005,0.5737
+alate,alas,http://purl.obolibrary.org/obo/ENVO_00000438,0.7401
+alate,alas,http://purl.obolibrary.org/obo/ENVO_00000438,0.7401
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+alate,alas,http://purl.obolibrary.org/obo/ENVO_00000438,0.7401
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+algae,algal material,http://purl.obolibrary.org/obo/ENVO_01001189,0.6515
+All,whole,http://purl.obolibrary.org/obo/PATO_0001446,0.5485
+all known life stages,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.7243
+all known parasitic stages,larval stage,http://purl.obolibrary.org/obo/UBERON_0000069,0.5824
+all life stages,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.7633
+All life stages,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.7633
+all parasitic life stages,life of whole plant stage,http://purl.obolibrary.org/obo/PO_0025337,0.5424
+All parasitic life stages,life of whole plant stage,http://purl.obolibrary.org/obo/PO_0025337,0.5424
+all parasitic stages,larval stage,http://purl.obolibrary.org/obo/UBERON_0000069,0.6087
+All parasitic stages,larval stage,http://purl.obolibrary.org/obo/UBERON_0000069,0.6087
+All Parasitic Stages,larval stage,http://purl.obolibrary.org/obo/UBERON_0000069,0.6087
+all stages,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.6616
+All stages,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.6616
+amphispores,Amphioxiformes,http://purl.obolibrary.org/obo/NCBITaxon_2682553,0.7365
+anamorph,anabranch,http://purl.obolibrary.org/obo/ENVO_00000152,0.6773
+Anamorph,anabranch,http://purl.obolibrary.org/obo/ENVO_00000152,0.6773
+androecia,androecium,http://purl.obolibrary.org/obo/PO_0009061,0.7765
+Apothecial,apothecium,http://purl.obolibrary.org/obo/FAO_0001034,0.7851
+apple,apple food product,http://purl.obolibrary.org/obo/FOODON_00001611,0.6592
+Arthrinium state,arthroconidium,http://purl.obolibrary.org/obo/FAO_0000041,0.6176
+ascifera,ascidian,http://purl.obolibrary.org/obo/BTO_0000090,0.6993
+Ascigerous,ascidian,http://purl.obolibrary.org/obo/BTO_0000090,0.6367
+Ascospore,ascospore,http://purl.obolibrary.org/obo/FAO_0000020,1.0000
+Ascostromata,Ascomycota,http://purl.obolibrary.org/obo/NCBITaxon_4890,0.6849
+Auf den meisten Plfanzen finden sich stylo- u,styliform element,http://purl.obolibrary.org/obo/UBERON_0035561,0.4134
+a uredospores. b teleutospores.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6979
+autumn form,spring,http://purl.obolibrary.org/obo/ENVO_00000027,0.5172
+baby,fetus,http://purl.obolibrary.org/obo/BTO_0000449,0.5613
+Basidiocarp,basidiocarp,http://purl.obolibrary.org/obo/BTO_0000114,1.0000
+Basidiocarps,basidiocarp,http://purl.obolibrary.org/obo/BTO_0000114,0.9539
+beginning of fruiting,fruit initiation stage,http://purl.obolibrary.org/obo/PO_0025503,0.7462
+Both with teleuto- and some uredospores,Teleostomi,http://purl.obolibrary.org/obo/NCBITaxon_117570,0.5809
+Budding,plant bud,http://purl.obolibrary.org/obo/BTO_0000158,0.7662
+Caeoma stage,megalopa stage,http://purl.obolibrary.org/obo/UBERON_0014859,0.6170
+early condition,early premaxilla,http://purl.obolibrary.org/obo/UBERON_0011628,0.5464
+Calf,calf,http://purl.obolibrary.org/obo/UBERON_8480048,1.0000
+Canada,north,http://purl.obolibrary.org/obo/PATO_0045091,0.5621
+capsule,capsule,http://purl.obolibrary.org/obo/UBERON_0003893,1.0000
+capsules,capsule,http://purl.obolibrary.org/obo/UBERON_0003893,0.8979
+carrion,carr,http://purl.obolibrary.org/obo/ENVO_00000235,0.7648
+carrion (adult),carr,http://purl.obolibrary.org/obo/ENVO_00000235,0.6252
+carrion (juvenile),juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.6427
+Case 13,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,0.5383
+cercaria,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,1.0000
+Cercaria,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,1.0000
+cercariae,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.9415
+Cercariae,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.9415
+cercariae; redia,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.8335
+cercaria; parthenitae,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.8417
+cercaria; redia,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.8504
+cercaria; rediae,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.7985
+cfr.,dairy product (us cfr),http://purl.obolibrary.org/obo/FOODON_03400164,0.6319
+Chromelosporium state,archesporium,http://purl.obolibrary.org/obo/PO_0030074,0.4680
+chrysalid,Chromadorea,http://purl.obolibrary.org/obo/NCBITaxon_119089,0.5199
+chrysalid skin,skin,http://purl.obolibrary.org/obo/BTO_0001253,0.5880
+chrysalis,flower fascicle,http://purl.obolibrary.org/obo/PO_0025323,0.5921
+cocoon,cocoon,http://purl.obolibrary.org/obo/UBERON_0013198,1.0000
+Cocoon,cocoon,http://purl.obolibrary.org/obo/UBERON_0013198,1.0000
+Cocoon remains,cocoon,http://purl.obolibrary.org/obo/UBERON_0013198,0.8526
+cocoon w,cocoon,http://purl.obolibrary.org/obo/UBERON_0013198,0.8966
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+coenurus,Coelacanthidae,http://purl.obolibrary.org/obo/NCBITaxon_7895,0.6701
+Collection is in mostly the conidial stage.,collection of organisms,http://purl.obolibrary.org/obo/PCO_0000000,0.4804
+conidia,conidiophore,http://purl.obolibrary.org/obo/FAO_0000043,0.6347
+Conidia,conidiophore,http://purl.obolibrary.org/obo/FAO_0000043,0.6347
+conidia and perithecia,conidial anastomosis tube,http://purl.obolibrary.org/obo/FAO_0002008,0.6088
+conidia and young perithecia,conidial anastomosis tube,http://purl.obolibrary.org/obo/FAO_0002008,0.5942
+conidial,conidiophore,http://purl.obolibrary.org/obo/FAO_0000043,0.6419
+Conidial,conidiophore,http://purl.obolibrary.org/obo/FAO_0000043,0.6419
+conidial and perithecial stage,conidial anastomosis tube,http://purl.obolibrary.org/obo/FAO_0002008,0.5972
+conidial stage,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.6574
+Conidial stage,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.6574
+Conidial stage of Nectria cinnabarina,fungus form,http://purl.obolibrary.org/obo/BTO_0002261,0.5190
+conidial stage: Oidium destruens Peck,conidium of conidiophore head,http://purl.obolibrary.org/obo/FAO_0000027,0.6167
+Conidia of Dimerosporium pulchrum,Fungi,http://purl.obolibrary.org/obo/NCBITaxon_4751,0.6293
+Sacc.,sac,http://purl.obolibrary.org/obo/UBERON_0009856,0.7548
+conidia only,conidiophore,http://purl.obolibrary.org/obo/FAO_0000043,0.5766
+Conidia only,conidiophore,http://purl.obolibrary.org/obo/FAO_0000043,0.5766
+; copepodid,Copepoda,http://purl.obolibrary.org/obo/NCBITaxon_6830,0.8323
+crysalis,cryosol,http://purl.obolibrary.org/obo/ENVO_00002236,0.6688
+cyst,cyst,http://purl.obolibrary.org/obo/BTO_0000320,1.0000
+cystacanth,Cyclostomata,http://purl.obolibrary.org/obo/NCBITaxon_1476529,0.6927
+Cystacanth,Cyclostomata,http://purl.obolibrary.org/obo/NCBITaxon_1476529,0.6927
+cystercoid,Cyrtacanthacridinae,http://purl.obolibrary.org/obo/NCBITaxon_37267,0.6243
+cysticerci,cysticercus,http://purl.obolibrary.org/obo/BTO_0003168,0.8817
+cysticercoid,cysticercus,http://purl.obolibrary.org/obo/BTO_0003168,0.8281
+cysticercus,cysticercus,http://purl.obolibrary.org/obo/BTO_0003168,1.0000
+cyst(s),cyst,http://purl.obolibrary.org/obo/BTO_0000320,0.9140
+dead chrysalis,flower fascicle,http://purl.obolibrary.org/obo/PO_0025323,0.5087
+deutonymph,deutocerebrum,http://purl.obolibrary.org/obo/BTO_0003867,0.6475
+Deutonymph,deutocerebrum,http://purl.obolibrary.org/obo/BTO_0003867,0.6475
+deutonymph (hypopus = hypopode),hypotrophic,http://purl.obolibrary.org/obo/PATO_0000585,0.5840
+developed,manufactured product,http://purl.obolibrary.org/obo/ENVO_00003074,0.5928
+Dr. M. T. Cook and J. J. Tabenhaus,m. serratus medius,http://purl.obolibrary.org/obo/UBERON_3010698,0.4387
+duckling,duck food product,http://purl.obolibrary.org/obo/FOODON_02020114,0.6096
+dult,durisol,http://purl.obolibrary.org/obo/ENVO_00002238,0.6033
+early reproductive,reproductive system development,http://purl.obolibrary.org/obo/GO_0061458,0.7941
+early stage,mature stage,http://purl.obolibrary.org/obo/BTO_0005743,0.6929
+early stage,mature stage,http://purl.obolibrary.org/obo/BTO_0005743,0.6929
+not in fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.6642
+eft,epimysium,http://purl.obolibrary.org/obo/UBERON_0011899,0.4314
+egg,egg,http://purl.obolibrary.org/obo/BTO_0000369,1.0000
+Egg,egg,http://purl.obolibrary.org/obo/BTO_0000369,1.0000
+egg case,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.7069
+Egg,egg,http://purl.obolibrary.org/obo/BTO_0000369,1.0000
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+& pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8500
+egg mass,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.7281
+egg_mass,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.7000
+Egg mass,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.7281
+egg; mature,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.7436
+egg or egg sac,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.7579
+egg(s),egg,http://purl.obolibrary.org/obo/BTO_0000369,0.8086
+eggs,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.9121
+Eggs,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.9121
+egg sac,yolk sac,http://purl.obolibrary.org/obo/UBERON_0001040,0.7901
+Eggs and Larvae,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.7062
+egg shells,shelled egg,http://purl.obolibrary.org/obo/UBERON_0007379,0.8611
+eggs,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.9121
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+eggs; larvae,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6951
+Eggs of Lice,shelled egg,http://purl.obolibrary.org/obo/UBERON_0007379,0.5769
+eggs; proglottids,proglottid,http://purl.obolibrary.org/obo/BTO_0006330,0.6680
+embryo,embryo,http://purl.obolibrary.org/obo/UBERON_0000922,1.0000
+Embryos,embryo,http://purl.obolibrary.org/obo/UBERON_0000922,0.9501
+Embryos and Larvae,insect presumptive embryonic/larval system,http://purl.obolibrary.org/obo/UBERON_6007116,0.7522
+Emergent,autogenous,http://purl.obolibrary.org/obo/PATO_0002316,0.5726
+empty cocoon,cocoon,http://purl.obolibrary.org/obo/UBERON_0013198,0.8288
+Entomosporium,microsporangium exothecium,http://purl.obolibrary.org/obo/PO_0025311,0.5835
+epitoke,epitope,http://purl.obolibrary.org/obo/CHEBI_53000,0.9263
+Et uredosporae et teleutosporae,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6342
+Et uredosporae et teleutosporae praesentes.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6027
+euparthenitae,Euteleostomi,http://purl.obolibrary.org/obo/NCBITaxon_117571,0.7101
+exuvia,exudate,http://purl.obolibrary.org/obo/UBERON_0007780,0.6049
+Exuvia,exudate,http://purl.obolibrary.org/obo/UBERON_0007780,0.6049
+exuviae,exudate,http://purl.obolibrary.org/obo/UBERON_0007780,0.7719
+Exuvium,alluvium,http://purl.obolibrary.org/obo/ENVO_01001202,0.6715
+F,functional,http://purl.obolibrary.org/obo/PATO_0001510,0.5819
+false teleutospore stage,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6354
+F. A. Wolf,animal,http://purl.obolibrary.org/obo/BTO_0000042,0.4799
+F. D. Heald and F. A. Wolf,lysed,http://purl.obolibrary.org/obo/PATO_0065001,0.4144
+female,female,http://purl.obolibrary.org/obo/PATO_0000383,1.0000
+Female,female,http://purl.obolibrary.org/obo/PATO_0000383,1.0000
+Female flowers,flower,http://purl.obolibrary.org/obo/PO_0009046,0.7304
+fertile,fertile,http://purl.obolibrary.org/obo/PATO_0000955,1.0000
+Fertile,fertile,http://purl.obolibrary.org/obo/PATO_0000955,1.0000
+fledgling,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.5888
+Fledig,vog,http://purl.obolibrary.org/obo/ENVO_01001258,0.4759
+flower,flower,http://purl.obolibrary.org/obo/PO_0009046,1.0000
+Flower,flower,http://purl.obolibrary.org/obo/PO_0009046,1.0000
+Flower and fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.7848
+Flower and Immature Fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.7147
+Flower buds,flower bud,http://purl.obolibrary.org/obo/PO_0000056,0.8044
+Flower; Fruit,flower,http://purl.obolibrary.org/obo/PO_0009046,0.8199
+flowering,flower,http://purl.obolibrary.org/obo/PO_0009046,0.8412
+Flowering,flower,http://purl.obolibrary.org/obo/PO_0009046,0.8412
+Flowering ?,flower,http://purl.obolibrary.org/obo/PO_0009046,0.7530
+Flowering.,flower,http://purl.obolibrary.org/obo/PO_0009046,0.8257
+Flowering and fruiting,flowering stage,http://purl.obolibrary.org/obo/PO_0007616,0.7070
+Flowering and Fruiting,flowering stage,http://purl.obolibrary.org/obo/PO_0007616,0.7070
+Flowering and immature fruit,fruit development stage,http://purl.obolibrary.org/obo/PO_0001002,0.6856
+Flowering and Immature Fruit,fruit development stage,http://purl.obolibrary.org/obo/PO_0001002,0.6856
+Flowering and young fruit,fruit development stage,http://purl.obolibrary.org/obo/PO_0001002,0.6905
+Flowering & fruiting,flowering stage,http://purl.obolibrary.org/obo/PO_0007616,0.7245
+flowers,flower,http://purl.obolibrary.org/obo/PO_0009046,0.8882
+Flowers,flower,http://purl.obolibrary.org/obo/PO_0009046,0.8882
+fructification,friable,http://purl.obolibrary.org/obo/PATO_0002406,0.5136
+fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,1.0000
+Fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,1.0000
+fruiting,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.8241
+Fruiting,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.8241
+Fruiting ?,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.7702
+fruits,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.9398
+seeds,seed,http://purl.obolibrary.org/obo/PO_0009010,0.8922
+fry,oil,http://purl.obolibrary.org/obo/ENVO_00002985,0.5856
+fundatrigenia,fundus of stomach,http://purl.obolibrary.org/obo/UBERON_0001160,0.5786
+fundatrispuria,serosa of fundus of stomach,http://purl.obolibrary.org/obo/UBERON_0012503,0.5738
+fungus asciferus,fungus,http://purl.obolibrary.org/obo/BTO_0001494,0.7434
+Fusarium stage,blastula stage,http://purl.obolibrary.org/obo/UBERON_0000108,0.5948
+Fusicladium stage,F four nucleate megagametophyte stage,http://purl.obolibrary.org/obo/PO_0007628,0.5377
+gall,Gallus,http://purl.obolibrary.org/obo/NCBITaxon_9030,0.8370
+Gametophyte,gametophyte,http://purl.obolibrary.org/obo/BTO_0000495,1.0000
+gemmae,gemma,http://purl.obolibrary.org/obo/PO_0025614,0.9077
+gemmae + sporophyte,sporophyte,http://purl.obolibrary.org/obo/BTO_0000735,0.6751
+glaucothoe,glaucothoe stage,http://purl.obolibrary.org/obo/UBERON_0014861,0.7588
+glodid,Glires,http://purl.obolibrary.org/obo/NCBITaxon_314147,0.5728
+Gloeosporium stage,protophloem,http://purl.obolibrary.org/obo/PO_0006077,0.6386
+Gosner 19-22: pretadpole,preameloblast,http://purl.obolibrary.org/obo/CL_0007000,0.4724
+Gosner 23-24: tadpole w,tadpole,http://purl.obolibrary.org/obo/UBERON_0002547,0.5603
+external gills,external gill,http://purl.obolibrary.org/obo/UBERON_0008891,0.8068
+Gosner 25-27: tadpole w,tadpole,http://purl.obolibrary.org/obo/UBERON_0002547,0.5768
+no legs,leg,http://purl.obolibrary.org/obo/UBERON_0000978,0.7012
+Gosner 28-30: tadpole w,tadpole,http://purl.obolibrary.org/obo/UBERON_0002547,0.5554
+hind limb buds,limb bud,http://purl.obolibrary.org/obo/UBERON_0004347,0.7053
+Gosner 37-38: tadpole w,tadpole,http://purl.obolibrary.org/obo/UBERON_0002547,0.5503
+later toe stage,toe,http://purl.obolibrary.org/obo/BTO_0002348,0.6880
+gravid,gravid adult,http://purl.obolibrary.org/obo/BTO_0004733,0.7882
+hatching year,hatching,http://purl.obolibrary.org/obo/GO_0035188,0.8081
+hatchling,hatching,http://purl.obolibrary.org/obo/GO_0035188,0.9368
+head capsule,head capsule,http://purl.obolibrary.org/obo/BTO_0004711,1.0000
+head capsules,head capsule,http://purl.obolibrary.org/obo/BTO_0004711,0.9387
+holomorph,phyllome,http://purl.obolibrary.org/obo/PO_0006001,0.6743
+Holotype,hoof,http://purl.obolibrary.org/obo/UBERON_0008963,0.5979
+Huevo,huelle cell,http://purl.obolibrary.org/obo/BTO_0002158,0.5962
+hydroid,hydroid,http://purl.obolibrary.org/obo/PO_0025032,1.0000
+Hyponymph,hyponychium,http://purl.obolibrary.org/obo/UBERON_0002284,0.7558
+hypopus,hypoconid,http://purl.obolibrary.org/obo/UBERON_0018279,0.6561
+Hypopus,hypoconid,http://purl.obolibrary.org/obo/UBERON_0018279,0.6561
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+I.,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4713
+I aecia,aeciospore,http://purl.obolibrary.org/obo/FAO_0000054,0.6083
+I Aecidium,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.7455
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Aecidium,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.8149
+I (=Aecidium Ligustri Strauss),miracidium,http://purl.obolibrary.org/obo/BTO_0005869,0.4877
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+also II?,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4098
+I and II,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4989
+I and III,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4900
+I and III.,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4695
+I and III?,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4554
+I. and III.,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4123
+I? and III,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4197
+I and III Aecidium and Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.5646
+Iarva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.5775
+Ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+II ?,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4174
+II.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.3549
+II?,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4174
+(II and) III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4782
+II (and III),meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4925
+II and III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4907
+II. And III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.3872
+II and III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4907
+mostly II,secondary,http://purl.obolibrary.org/obo/PATO_0002632,0.4610
+II and III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4907
+with Aecidium on some of the spec,aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.5821
+I-ii,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5953
+(I),complex,http://purl.obolibrary.org/obo/PATO_0001504,0.3814
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+I & II,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5341
+I (II),complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5270
+I - II,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5953
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+I-II,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5953
+I-II.,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5934
+I. II.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4342
+II & I,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5118
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+III?,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4462
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+I - iii,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5861
+II-ii,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4994
+III - i,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5268
+III-i,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5268
+(I),complex,http://purl.obolibrary.org/obo/PATO_0001504,0.3814
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+I & III,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4964
+I & III?,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4601
+I &III,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4964
+I (!),I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.3928
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+I (III),complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4959
+I + III,h plus,http://purl.obolibrary.org/obo/PATO_0001346,0.5006
+I - III,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5861
+I III,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5211
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+I--III,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5953
+I-III,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5861
+I-III.,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5842
+I. III,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4571
+I. III.,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4157
+I.-III.,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5282
+I.III,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4571
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+II-II,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4994
+III & I,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4807
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+ii. III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4064
+iI-III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4677
+II - iii,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4677
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+II-iii,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4677
+II-iii.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4477
+II. Iii.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4064
+III - ii,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4511
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III-ii,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4511
+III-ii.,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4583
+III.-ii.,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4656
+(II) III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4527
+(II) III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4429
+(II),tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32785,0.3762
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+-II-III,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4699
+II & III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4827
+II & III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4577
+II & III?,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4923
+II (+III),meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4489
+II (III),meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4891
+II + III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4777
+II - III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4677
+II III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4922
+II III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4655
+II&III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4827
+II+III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4777
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+(III),D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.3684
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III?,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4462
+II- III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4677
+II- III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4477
+II-III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4677
+II-III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4477
+II. & III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.3931
+II. (III),meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.3765
+II. (III).,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.3634
+II. (III.),D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.3560
+II. - III.,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4520
+II. III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4179
+II. III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4064
+II.(III.),D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.3560
+II.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.3549
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+II.--III,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4530
+II.-III.,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4520
+II.III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4179
+II; III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.3905
+III & II,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4752
+III&II,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4752
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III-II,D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.4511
+III. II,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4418
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+II.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.3549
+(I) II,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4722
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+(I),complex,http://purl.obolibrary.org/obo/PATO_0001504,0.3814
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+(I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4189
+II) III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4073
+I (II) III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.5236
+I + II,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5434
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+I - II - III,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5306
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+(II),tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32785,0.3762
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+& III,premolar 3,http://purl.obolibrary.org/obo/UBERON_7500056,0.4078
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III.,multiple,http://purl.obolibrary.org/obo/PATO_0002118,0.4192
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+I-II-III,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5306
+I-II-III.,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.5305
+I. II. III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4745
+I.,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4713
+II. & III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4175
+I.II.III.,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4745
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+IIII,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5502
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III. Destructive aecial stage.,2 endoreduplication stage,http://purl.obolibrary.org/obo/PO_0007058,0.5652
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III. This is the Uredinial and Telial,ural centrum 3,http://purl.obolibrary.org/obo/UBERON_2002160,0.5148
+II; III scarce,necessity of occurrent,http://purl.obolibrary.org/obo/PATO_0001637,0.4485
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III & X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.4681
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+& X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5084
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+III (on Stipa) I (on Sidalcea),stomatal complex,http://purl.obolibrary.org/obo/PO_0002000,0.5114
+III Teleuto,Teleostei,http://purl.obolibrary.org/obo/NCBITaxon_32443,0.6501
+III Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7634
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8663
+III. Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7906
+III Telia.,Teleostei,http://purl.obolibrary.org/obo/NCBITaxon_32443,0.7159
+III Telial,telson,http://purl.obolibrary.org/obo/BTO_0001353,0.6535
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+IV,ion,http://purl.obolibrary.org/obo/CHEBI_24870,0.5483
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+II or III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4653
+II Perfect,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.4540
+II prim.,primiparous,http://purl.obolibrary.org/obo/PATO_0002371,0.5133
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+II Systemic,systemic artery,http://purl.obolibrary.org/obo/UBERON_0004573,0.5647
+(II und) III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.3829
+II und III,Meriones unguiculatus,http://purl.obolibrary.org/obo/NCBITaxon_10047,0.3904
+II Uredo,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7739
+II. Uredo,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7713
+II Uredo,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7739
+I Teleuto,Teleostei,http://purl.obolibrary.org/obo/NCBITaxon_32443,0.6893
+I. IV.,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4400
+II. With some III.,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.3719
+Iix,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5222
+II-X,variant,http://purl.obolibrary.org/obo/PATO_0001227,0.4166
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+x,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+ii X III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4615
+II - X - III,integrin alpha-X,http://purl.obolibrary.org/obo/PR_000001013,0.4146
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+II-X-III,integrin alpha-X,http://purl.obolibrary.org/obo/PR_000001013,0.4146
+Im.,arene,http://purl.obolibrary.org/obo/CHEBI_33658,0.4473
+imago,imago,http://purl.obolibrary.org/obo/BTO_0001512,1.0000
+Imago,imago,http://purl.obolibrary.org/obo/BTO_0001512,1.0000
+imm,imago,http://purl.obolibrary.org/obo/BTO_0001512,0.5126
+Imm,imago,http://purl.obolibrary.org/obo/BTO_0001512,0.5126
+; immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8564
+immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+Immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+immature; adult,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8499
+immature adult; immature adult,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8056
+Immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+Adult(s),adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8790
+Immature and Mature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8651
+Immature forms only,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.7030
+Immature fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.7636
+immature; immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.9365
+immature; mature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8908
+(immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.7877
+no perithecia),perithecium,http://purl.obolibrary.org/obo/FAO_0001036,0.7078
+; immature; ovigerous,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.7063
+immature perithecia,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.6309
+immature pycnidia,pycnocline,http://purl.obolibrary.org/obo/ENVO_01000259,0.5675
+immatures,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8741
+Immatures,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8741
+immature stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8746
+Immature stage(s),sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8937
+Immature stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8746
+Immature Stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8746
+immature stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8746
+including the undescribed larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.7944
+I Monilia stage,veliger stage,http://purl.obolibrary.org/obo/UBERON_0014863,0.5770
+I Monilinia stage,megalopa stage,http://purl.obolibrary.org/obo/UBERON_0014859,0.5502
+imperfect,quality,http://purl.obolibrary.org/obo/BFO_0000019,0.5081
+inactive,inactive,http://purl.obolibrary.org/obo/PATO_0002355,1.0000
+in bud,plant bud,http://purl.obolibrary.org/obo/BTO_0000158,0.6436
+In bud,plant bud,http://purl.obolibrary.org/obo/BTO_0000158,0.6436
+In Bud,plant bud,http://purl.obolibrary.org/obo/BTO_0000158,0.6436
+I. n. comb.,comb,http://purl.obolibrary.org/obo/UBERON_0012176,0.8390
+in flower,flower,http://purl.obolibrary.org/obo/PO_0009046,0.7849
+In flower,flower,http://purl.obolibrary.org/obo/PO_0009046,0.7849
+I. & O.,oospore,http://purl.obolibrary.org/obo/FAO_0000039,0.3480
+I (on Arabis),arable,http://purl.obolibrary.org/obo/ENVO_01001184,0.6944
+II+III (on Stipa),stomatal complex,http://purl.obolibrary.org/obo/PO_0002000,0.5496
+I on Sidalcea; III on Stipa,stipule,http://purl.obolibrary.org/obo/PO_0020041,0.5605
+I (on twigs) and III (on leaves),leaf mesophyll,http://purl.obolibrary.org/obo/PO_0005645,0.5317
+IV,ion,http://purl.obolibrary.org/obo/CHEBI_24870,0.5483
+juv.,Mel Ju cell,http://purl.obolibrary.org/obo/BTO_0001673,0.4987
+adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8342
+Juvenil,Mel Ju cell,http://purl.obolibrary.org/obo/BTO_0001673,0.5133
+; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8733
+;; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7368
+juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,1.0000
+juvenile;;,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8733
+Juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,1.0000
+juvenile; adult,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.9127
+Juvenile | Adult,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8922
+juvenile juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.9619
+juvenile; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.9578
+juvenile; juvenile; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8792
+juvenile; juvenile; ovigerous,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8232
+;; juvenile; larvae V,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6598
+juveniles,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8717
+Juveniles,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.8717
+Juvenile | sub-adult | Adult,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7757
+Juvenile | subadult | Adult,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7307
+Juvenile | subadults | Adults,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.6967
+juvenile unsexed,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7265
+juvenile; yearling,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7507
+known nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8120
+L,L-tyrosinate(1-),http://purl.obolibrary.org/obo/CHEBI_32760,0.5964
+L-1,L-tyrosinate(1-),http://purl.obolibrary.org/obo/CHEBI_32760,0.6947
+L3 Larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7143
+Lactating,lactation,http://purl.obolibrary.org/obo/GO_0007595,0.8328
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+Larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+larva; adult,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8404
+larva;adult,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8404
+Larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+larva & adults,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8255
+larva and adult,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8379
+larva and adults,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8339
+larva and case,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8464
+larva and egg,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.7799
+Larva and premetamorphs,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.7762
+larva and pupae,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8181
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+Larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+larvae; adult,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.6992
+Larvae & adult,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.6877
+larvae & adults,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6496
+larvae and adult,adult organism,http://purl.obolibrary.org/obo/UBERON_0007023,0.6829
+larvae and adults,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6631
+larvae and cases,larval integument,http://purl.obolibrary.org/obo/BTO_0000708,0.7187
+Larvae and metamorph,metamorphosis,http://purl.obolibrary.org/obo/GO_0007552,0.7175
+Larvae and metamorphs,insect metatarsus,http://purl.obolibrary.org/obo/UBERON_6004648,0.7089
+Larvae and Nymph,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.6030
+larvae and nymphs,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.6127
+Larvae and nymphs,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.6127
+Larvae and premetamorph,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6633
+Larvae and premetamorphs,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6668
+larvae and pupa,instar larval or pupal development,http://purl.obolibrary.org/obo/GO_0002165,0.7170
+larvae and pupae,instar larval or pupal development,http://purl.obolibrary.org/obo/GO_0002165,0.7238
+larvae; eggs,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.7040
+Larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+exuvia,exudate,http://purl.obolibrary.org/obo/UBERON_0007780,0.6049
+Larvae(Metacercaria),metacercaria,http://purl.obolibrary.org/obo/UBERON_0018385,0.7237
+Larvae & Nymph,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.5861
+Larvae & nymphs,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.6062
+Larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+Nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8749
+Larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+premetamorph,premonocyte,http://purl.obolibrary.org/obo/BTO_0004657,0.6655
+Larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+pupae,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8544
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+pupae,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8544
+larvae reared to adults,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6670
+larvae; young adults,larval development,http://purl.obolibrary.org/obo/GO_0002164,0.6896
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,1.0000
+larval,larval,http://purl.obolibrary.org/obo/PATO_0001185,1.0000
+Larval,larval,http://purl.obolibrary.org/obo/PATO_0001185,1.0000
+larva; larva; nymph,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8387
+larva;larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.9595
+nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+larval case?,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7676
+Larval Case,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8359
+Larval cases,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8413
+Larval Cases,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8413
+Larval & Egg,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8102
+Larval Egg,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8171
+Larval & Pupa,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7787
+Larval Pupa,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8158
+larval,larval,http://purl.obolibrary.org/obo/PATO_0001185,1.0000
+pupal,pupal,http://purl.obolibrary.org/obo/PATO_0001187,1.0000
+larval skin,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8096
+larval skins,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7517
+larva; mature,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8539
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+larva; nymph,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8328
+larva;nymph,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8328
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+nymph;larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.7899
+Larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+premetamorph,premonocyte,http://purl.obolibrary.org/obo/BTO_0004657,0.6655
+larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,1.0000
+pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+larva; pupa,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.8412
+Larvas,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.9360
+1° instar,temperature,http://purl.obolibrary.org/obo/PATO_0000146,0.5091
+Larvas,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.9360
+2° instar,second instar larva,http://purl.obolibrary.org/obo/UBERON_0018382,0.5221
+Larvas,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.9360
+3° instar,temperature,http://purl.obolibrary.org/obo/PATO_0000146,0.4852
+Larvas,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.9360
+4° instar,fourth instar larva stage,http://purl.obolibrary.org/obo/UBERON_8000003,0.4941
+Larvas,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.9360
+5° instar,temperature,http://purl.obolibrary.org/obo/PATO_0000146,0.5067
+larve,lahar,http://purl.obolibrary.org/obo/ENVO_01000699,0.6311
+larv.,lahar,http://purl.obolibrary.org/obo/ENVO_01000699,0.5883
+pupae,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8544
+last instar larva,second instar larva,http://purl.obolibrary.org/obo/UBERON_0018382,0.8861
+Later stage,late adult stage,http://purl.obolibrary.org/obo/UBERON_0007222,0.7470
+Leaf,leaf,http://purl.obolibrary.org/obo/PO_0025034,1.0000
+Leaf Mine,leaf,http://purl.obolibrary.org/obo/PO_0025034,0.7540
+leafmines,leaf,http://purl.obolibrary.org/obo/PO_0025034,0.6586
+leaves,leaf,http://purl.obolibrary.org/obo/PO_0025034,0.8455
+leaves,leaf,http://purl.obolibrary.org/obo/PO_0025034,0.8455
+blades,blade-like,http://purl.obolibrary.org/obo/PATO_0002235,0.7474
+life,alive,http://purl.obolibrary.org/obo/PATO_0001421,0.6175
+lifee,gamete,http://purl.obolibrary.org/obo/CL_0000300,0.5476
+male,male,http://purl.obolibrary.org/obo/PATO_0000384,1.0000
+Male Flowers,flower,http://purl.obolibrary.org/obo/PO_0009046,0.6756
+mamogametocyte,gametocyte,http://purl.obolibrary.org/obo/BTO_0000996,0.7399
+marita,Batis maritima,http://purl.obolibrary.org/obo/NCBITaxon_4436,0.6374
+marsupidium,marsupium,http://purl.obolibrary.org/obo/UBERON_0009118,0.8341
+mature,mature,http://purl.obolibrary.org/obo/PATO_0001701,1.0000
+Mature,mature,http://purl.obolibrary.org/obo/PATO_0001701,1.0000
+mature asci and spores,ascospore in free ascus,http://purl.obolibrary.org/obo/FAO_0000016,0.5968
+Mature fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.7930
+mature; immature,mature,http://purl.obolibrary.org/obo/PATO_0001701,0.8795
+mature;immature,mature,http://purl.obolibrary.org/obo/PATO_0001701,0.8795
+mature perithecia,perithecium,http://purl.obolibrary.org/obo/FAO_0001036,0.6492
+mature Proglottids,proglottid,http://purl.obolibrary.org/obo/BTO_0006330,0.7474
+mature spores,fungus form,http://purl.obolibrary.org/obo/BTO_0002261,0.6192
+megalopa,megalopa stage,http://purl.obolibrary.org/obo/UBERON_0014859,0.7940
+mesocercaria,mesocarp,http://purl.obolibrary.org/obo/PO_0009087,0.7629
+mesocercariae,mesocarp,http://purl.obolibrary.org/obo/PO_0009087,0.7070
+metacercaria,metacercaria,http://purl.obolibrary.org/obo/UBERON_0018385,1.0000
+Metacercaria,metacercaria,http://purl.obolibrary.org/obo/UBERON_0018385,1.0000
+metacercariae,metacercaria,http://purl.obolibrary.org/obo/BTO_0003927,0.8471
+Metacercariae,metacercaria,http://purl.obolibrary.org/obo/BTO_0003927,0.8471
+metacestode,metacestode,http://purl.obolibrary.org/obo/UBERON_0018379,1.0000
+Metacestode,metacestode,http://purl.obolibrary.org/obo/UBERON_0018379,1.0000
+metamorph,metanephros,http://purl.obolibrary.org/obo/UBERON_0000081,0.7089
+Metamorph,metanephros,http://purl.obolibrary.org/obo/UBERON_0000081,0.7089
+Metamorphs,metamorphosis,http://purl.obolibrary.org/obo/GO_0007552,0.7466
+Microcercous sporocysts,mucous cell,http://purl.obolibrary.org/obo/BTO_0003689,0.6340
+microfilaria,microspore,http://purl.obolibrary.org/obo/PO_0020048,0.7052
+Microfilaria,microspore,http://purl.obolibrary.org/obo/PO_0020048,0.7052
+microfilariae,microsporangium,http://purl.obolibrary.org/obo/PO_0025202,0.7372
+middle stage,mature stage,http://purl.obolibrary.org/obo/BTO_0005743,0.7263
+miracidium,miracidium,http://purl.obolibrary.org/obo/BTO_0005869,1.0000
+Mixed,mixed,http://purl.obolibrary.org/obo/PATO_0002122,1.0000
+mostly adults,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6885
+occasionly nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7269
+mostly immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.8022
+Mostly Nymphs + 2 Adults,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.5787
+Mostly stromata,stroma,http://purl.obolibrary.org/obo/UBERON_0003891,0.7497
+Mostly Stromata,stroma,http://purl.obolibrary.org/obo/UBERON_0003891,0.7497
+mostly Uredo,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7503
+Mostly uredospores.,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7399
+Mostly Uredospores,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7623
+motile,motile cilium,http://purl.obolibrary.org/obo/GO_0031514,0.7745
+Multiple developmental stages present.,developmental process,http://purl.obolibrary.org/obo/GO_0032502,0.7377
+naiad,fishpond,http://purl.obolibrary.org/obo/ENVO_00000056,0.4647
+n.a.,N-acylammonia,http://purl.obolibrary.org/obo/CHEBI_83628,0.4957
+others,other source,http://purl.obolibrary.org/obo/BTO_0001490,0.5076
+nauplius I; nauplius II; nauplius III; nauplius IV; nauplius,nauplius,http://purl.obolibrary.org/obo/BTO_0000915,0.6495
+nauplius I; nauplius II; nauplius III; nauplius IV; nauplius V; nauplius VI,nauplius,http://purl.obolibrary.org/obo/BTO_0000915,0.5511
+Neascus larvae,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.7891
+neonate,neonate,http://purl.obolibrary.org/obo/BTO_0001762,1.0000
+neotenic_adult,neointima,http://purl.obolibrary.org/obo/BTO_0003359,0.6676
+nest,nest of bird,http://purl.obolibrary.org/obo/ENVO_00005805,0.8018
+Nest,nest of bird,http://purl.obolibrary.org/obo/ENVO_00005805,0.8018
+nestling,nest of bird,http://purl.obolibrary.org/obo/ENVO_00005805,0.6819
+Nestling,nest of bird,http://purl.obolibrary.org/obo/ENVO_00005805,0.6819
+Nestling,nest of bird,http://purl.obolibrary.org/obo/ENVO_00005805,0.6819
+egg,egg,http://purl.obolibrary.org/obo/BTO_0000369,1.0000
+nestling nestling,nest of bird,http://purl.obolibrary.org/obo/ENVO_00005805,0.6797
+nestling pullus,pileus,http://purl.obolibrary.org/obo/FAO_0000009,0.4794
+Ninfa,nilas,http://purl.obolibrary.org/obo/ENVO_03000068,0.6026
+nits,nitrite,http://purl.obolibrary.org/obo/CHEBI_16301,0.6652
+no,shoot,http://purl.obolibrary.org/obo/BTO_0001243,0.4141
+no conidia,conidiophore,http://purl.obolibrary.org/obo/FAO_0000043,0.5572
+non-ovigerous,non-porous,http://purl.obolibrary.org/obo/PATO_0000985,0.5749
+non-reproductive,sexual reproduction,http://purl.obolibrary.org/obo/GO_0019953,0.7014
+no perithecia,perithecium,http://purl.obolibrary.org/obo/FAO_0001036,0.7165
+not mature,mature,http://purl.obolibrary.org/obo/PATO_0001701,0.8780
+not quite mature,mature,http://purl.obolibrary.org/obo/PATO_0001701,0.8375
+not weaned,azane,http://purl.obolibrary.org/obo/CHEBI_35107,0.5104
+nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+Nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+nymph & exuviae,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7398
+nymph female,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7809
+nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,1.0000
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+nymph male,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7944
+nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8749
+Nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8749
+nymphs and larvae,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.5872
+Nymphs and larvae,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.5872
+Nymphs and Larvae,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.5872
+Nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.8749
+eggs,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.9121
+nymph skin,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7886
+Nymphs & larvae,nematode larva,http://purl.obolibrary.org/obo/UBERON_0009850,0.5809
+nymph unsexed,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7639
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+O.,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.4791
+O and I,Ovis,http://purl.obolibrary.org/obo/NCBITaxon_9935,0.3992
+O & I,Ovis,http://purl.obolibrary.org/obo/NCBITaxon_9935,0.4859
+O I,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.4289
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+O-I,I-cell,http://purl.obolibrary.org/obo/BTO_0000616,0.4251
+O. I,soot,http://purl.obolibrary.org/obo/ENVO_03000021,0.4025
+Oidium,oidium,http://purl.obolibrary.org/obo/FAO_0000051,1.0000
+(Oidium stage),oidium,http://purl.obolibrary.org/obo/FAO_0000051,0.7868
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+O,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.5128
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+O. I only,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.3658
+old Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8928
+older material,mineral material,http://purl.obolibrary.org/obo/ENVO_01000256,0.6522
+oocyst,oocyst,http://purl.obolibrary.org/obo/BTO_0001773,1.0000
+oocyst; sporocyst,oocyst,http://purl.obolibrary.org/obo/BTO_0001773,0.8407
+Oogonia,oogonial cell,http://purl.obolibrary.org/obo/CL_0000024,0.7202
+oospores,oospore,http://purl.obolibrary.org/obo/FAO_0000039,0.9235
+Oospores in stems,oospore,http://purl.obolibrary.org/obo/FAO_0000039,0.6309
+Ootheca,oospore,http://purl.obolibrary.org/obo/FAO_0000039,0.6906
+(ordeum stage),E tetrad stage,http://purl.obolibrary.org/obo/PO_0001029,0.5703
+other,other source,http://purl.obolibrary.org/obo/BTO_0001490,0.5983
+others,other source,http://purl.obolibrary.org/obo/BTO_0001490,0.5076
+ova,Ovis,http://purl.obolibrary.org/obo/NCBITaxon_9935,0.6597
+over-winter,cold season,http://purl.obolibrary.org/obo/ENVO_03000098,0.7267
+; ovigerous,oviduct,http://purl.obolibrary.org/obo/UBERON_0000993,0.6393
+; ovigerous;;,oviduct,http://purl.obolibrary.org/obo/UBERON_0000993,0.6012
+; ovigerous;;;;,oviduct,http://purl.obolibrary.org/obo/UBERON_0000993,0.6220
+;; ovigerous,oviduct,http://purl.obolibrary.org/obo/UBERON_0000993,0.5428
+ovigerous,oviduct,http://purl.obolibrary.org/obo/UBERON_0000993,0.7260
+ovigerous;;,oviduct,http://purl.obolibrary.org/obo/UBERON_0000993,0.6397
+;; ovigerous; immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,0.6424
+ovigerous; immature;; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.6854
+; ovigerous; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7357
+;; ovigerous; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7228
+ovigerous; juvenile,juvenile,http://purl.obolibrary.org/obo/PATO_0001190,0.7018
+oviposition sites,ovipositor,http://purl.obolibrary.org/obo/UBERON_2002117,0.5756
+P,seep,http://purl.obolibrary.org/obo/ENVO_01000262,0.5035
+Paarasitic Stages,pharyngula stage,http://purl.obolibrary.org/obo/UBERON_0004707,0.5276
+Parasitic Lifestages,Platyhelminthes,http://purl.obolibrary.org/obo/NCBITaxon_6157,0.5112
+Parasitic stages,larval stage,http://purl.obolibrary.org/obo/UBERON_0000069,0.6104
+Parasitic Stages,larval stage,http://purl.obolibrary.org/obo/UBERON_0000069,0.6104
+Parastic Stages,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.5465
+parthenita,Hemichordata,http://purl.obolibrary.org/obo/NCBITaxon_10219,0.5148
+parthenitae,Euteleostomi,http://purl.obolibrary.org/obo/NCBITaxon_117571,0.5457
+partly sterile,sterile,http://purl.obolibrary.org/obo/PATO_0000956,0.9002
+penultimate,final leaf,http://purl.obolibrary.org/obo/BTO_0002812,0.5353
+penultimate,final leaf,http://purl.obolibrary.org/obo/BTO_0002812,0.5353
+immature,immature,http://purl.obolibrary.org/obo/PATO_0001501,1.0000
+Penultimate nymph,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.7958
+perfect stage,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.7562
+Perfect stage,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.7562
+perianth,perianth,http://purl.obolibrary.org/obo/PO_0009058,1.0000
+perianth + androecia,perianth,http://purl.obolibrary.org/obo/PO_0009058,0.6685
+perianth + capsules,capsule,http://purl.obolibrary.org/obo/UBERON_0003893,0.6978
+perianth + gemmae,perianth,http://purl.obolibrary.org/obo/PO_0009058,0.6595
+perianths,perianth,http://purl.obolibrary.org/obo/PO_0009058,0.8751
+perianth + sporophyte,sporophyte,http://purl.obolibrary.org/obo/BTO_0000735,0.7509
+perigyn.,perigynium,http://purl.obolibrary.org/obo/PO_0009044,0.7514
+perigyn. + male,perigynium,http://purl.obolibrary.org/obo/PO_0009044,0.6426
+perithecia,perithecium,http://purl.obolibrary.org/obo/FAO_0001036,0.8028
+Perithecia,perithecium,http://purl.obolibrary.org/obo/FAO_0001036,0.8028
+perithecia and conidia,Peridiniales,http://purl.obolibrary.org/obo/NCBITaxon_2910,0.5971
+Perithecia immature,perithecium,http://purl.obolibrary.org/obo/FAO_0001036,0.6582
+phyllosoma,Phacochoerus,http://purl.obolibrary.org/obo/NCBITaxon_41425,0.6101
+Pileate and resupinate forms.,pileus,http://purl.obolibrary.org/obo/FAO_0000009,0.4758
+
+plerocerci,plerome,http://purl.obolibrary.org/obo/PO_0008035,0.8282
+plerocercoid,plerome,http://purl.obolibrary.org/obo/PO_0008035,0.6780
+plerocercus,plerome,http://purl.obolibrary.org/obo/PO_0008035,0.7665
+Pleurocercoid,pleurocentrum,http://purl.obolibrary.org/obo/UBERON_4200195,0.8235
+Pop,bubble,http://purl.obolibrary.org/obo/ENVO_01001685,0.5595
+;; postlarvae,postlarva,http://purl.obolibrary.org/obo/BTO_0002655,0.7510
+post larval,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.8783
+post-oncomiracidium 1a,Phormidium,http://purl.obolibrary.org/obo/NCBITaxon_1198,0.5685
+post-oncomiracidium 2a,Phormidium,http://purl.obolibrary.org/obo/NCBITaxon_1198,0.5602
+Premetamorph,premonocyte,http://purl.obolibrary.org/obo/BTO_0004657,0.6655
+Premetamorphs,premaxilla,http://purl.obolibrary.org/obo/UBERON_0002244,0.6398
+Premetamorphs,premaxilla,http://purl.obolibrary.org/obo/UBERON_0002244,0.6398
+metamorphs,metamorphosis,http://purl.obolibrary.org/obo/GO_0007552,0.7466
+Presumably immature stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.8314
+Probably a young stage. (Sphaeronema state),juvenile stage,http://purl.obolibrary.org/obo/UBERON_0034919,0.5926
+procercoid,procerus,http://purl.obolibrary.org/obo/UBERON_0008588,0.7184
+protonymph,proton,http://purl.obolibrary.org/obo/CHEBI_24636,0.7866
+Protonymph,proton,http://purl.obolibrary.org/obo/CHEBI_24636,0.7866
+protozoan stage,protozoan form,http://purl.obolibrary.org/obo/BTO_0002503,0.7894
+protozoan stage sarcocyst,sarcomere,http://purl.obolibrary.org/obo/GO_0030017,0.5825
+protozoan stage spores,protozoan form,http://purl.obolibrary.org/obo/BTO_0002503,0.6781
+protozoan stage tachyzoites,tachyzoite,http://purl.obolibrary.org/obo/BTO_0001346,0.7437
+protozoan stage tissue cyst,protozoan form,http://purl.obolibrary.org/obo/BTO_0002503,0.6131
+prot. sporogonic stage,sporophyte dormant stage,http://purl.obolibrary.org/obo/PO_0007132,0.6288
+pseudergate,psoas,http://purl.obolibrary.org/obo/BTO_0001140,0.4428
+Pseudocyst,pseudoclasper,http://purl.obolibrary.org/obo/UBERON_0017624,0.6987
+pseudosclerotia,pseudohypha,http://purl.obolibrary.org/obo/FAO_0001002,0.6605
+pullus,pileus,http://purl.obolibrary.org/obo/FAO_0000009,0.6112
+pup,pup,http://purl.obolibrary.org/obo/BTO_0004377,1.0000
+pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+Pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+pupae,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8544
+Pupa(e),pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8212
+Pupae,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8544
+pupal,pupal,http://purl.obolibrary.org/obo/PATO_0001187,1.0000
+pupa,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,1.0000
+larvae,larval,http://purl.obolibrary.org/obo/PATO_0001185,0.7761
+pupal case,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,1.0000
+Pupal case,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,1.0000
+Pupal Case,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,1.0000
+pupal case,pupal case,http://purl.obolibrary.org/obo/UBERON_0018657,1.0000
+cocoon,cocoon,http://purl.obolibrary.org/obo/UBERON_0013198,1.0000
+Pupal exuviae,pupal,http://purl.obolibrary.org/obo/PATO_0001187,0.7644
+pupal skin,pupal,http://purl.obolibrary.org/obo/PATO_0001187,0.7733
+Pupa or Larvae,instar larval or pupal development,http://purl.obolibrary.org/obo/GO_0002165,0.7339
+pupa skin,pupa,http://purl.obolibrary.org/obo/UBERON_0003143,0.8199
+pycnia,pycnocline,http://purl.obolibrary.org/obo/ENVO_01000259,0.6451
+pycnidia,pycnocline,http://purl.obolibrary.org/obo/ENVO_01000259,0.6600
+Pycnidia only,pycnocline,http://purl.obolibrary.org/obo/ENVO_01000259,0.6070
+queen,planet,http://purl.obolibrary.org/obo/ENVO_01000800,0.5175
+rarely adults and nymphs,nymph,http://purl.obolibrary.org/obo/BTO_0000954,0.4723
+recruits,military training area,http://purl.obolibrary.org/obo/ENVO_00000561,0.4835
+juv.,Mel Ju cell,http://purl.obolibrary.org/obo/BTO_0001673,0.4987
+redia,red,http://purl.obolibrary.org/obo/PATO_0000322,0.6340
+Redia,red,http://purl.obolibrary.org/obo/PATO_0000322,0.6340
+redia; cercariae,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.7442
+rediae,red,http://purl.obolibrary.org/obo/PATO_0000322,0.6655
+rediae; cercariae,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.7138
+#REF!,refractivity,http://purl.obolibrary.org/obo/PATO_0001372,0.3505
+reproductive,reproductive process,http://purl.obolibrary.org/obo/GO_0022414,0.8607
+Reproductive Condition,reproductive process,http://purl.obolibrary.org/obo/GO_0022414,0.7697
+Reproductive Status,reproductive quality,http://purl.obolibrary.org/obo/PATO_0001434,0.7857
+Resupinate form,landform,http://purl.obolibrary.org/obo/ENVO_01001886,0.4184
+Rhizoctonia,rhizoid,http://purl.obolibrary.org/obo/PO_0030078,0.8890
+Roestelia stage,gastrula stage,http://purl.obolibrary.org/obo/UBERON_0000109,0.6168
+roots,root,http://purl.obolibrary.org/obo/NCBITaxon_1,0.7812
+Rostelia stage,vegetative stage,http://purl.obolibrary.org/obo/BTO_0005744,0.6471
+Rust lfie stage 0,BO.00 booting begins stage,http://purl.obolibrary.org/obo/PO_0007051,0.4909
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust lfie stage II,BO.02 mid boot stage,http://purl.obolibrary.org/obo/PO_0007044,0.4449
+Rust life stage,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6216
+,right,http://purl.obolibrary.org/obo/PATO_0000367,0.5217
+Rust life stage ?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5853
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+Rust Life Stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+Rust life stage 0; (0),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4696
+Rust life stage 0 1,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5250
+Rust life stage 0 i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5395
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage 0-i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5437
+Rust life stage 0 I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5395
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage 0-I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5437
+Rust life stage (0),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5188
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage 0 & i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5255
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage (0),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5188
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage 0 ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4984
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage 0. ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4980
+Rust life stage 0 i ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4850
+Rust life stage 0 iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4934
+Rust life stage 0-iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5024
+Rust life stage 0 i Ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4850
+Rust life stage 0-I-II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4920
+Rust life stage 0-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5024
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage 0? iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5084
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage 0 i (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4406
+Rust life stage 0 i iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4797
+Rust life stage 0 i Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4797
+Rust life stage 0-I-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4913
+Rust life stage (0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5322
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0 ii iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4736
+Rust life stage 0 ii Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4736
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4841
+Rust life stage 0; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4888
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+II (iii),meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4891
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0 i (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4281
+Rust life stage 0 i (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4563
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0 i ii iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4521
+Rust life stage 0 iii; (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4820
+Rust life stage 0 i Ii Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4521
+Rust life stage 0-I-II-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4811
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+,right,http://purl.obolibrary.org/obo/PATO_0000367,0.5217
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage 0 ii; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4831
+Rust life stage 0 ii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4839
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0 iii; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4813
+Rust life stage 0 iii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4931
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0 i Ii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4612
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0 i Iii; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4683
+Rust life stage 0 i Iii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4715
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0 i Ii Iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4393
+Rust life stage 0 i Ii Iii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4674
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage 0 i ii iii iv,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4438
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+III sp.,premolar 3,http://purl.obolibrary.org/obo/UBERON_7500056,0.4786
+Rust life stage 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+I sp.,seep,http://purl.obolibrary.org/obo/ENVO_01000262,0.4293
+Rust life stage 0 sp.,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5297
+Rust life stage 336,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5651
+Rust life stage aecioid III,aeciospore,http://purl.obolibrary.org/obo/FAO_0000054,0.4756
+Rust life stage aecioid-III,aeciospore,http://purl.obolibrary.org/obo/FAO_0000054,0.4544
+Rust life stage aecioid III-III,aeciospore,http://purl.obolibrary.org/obo/FAO_0000054,0.4214
+Rust life stage aecoid III-III,obsolete aedeagus,http://purl.obolibrary.org/obo/UBERON_0003198,0.4194
+Rust life stage An,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6232
+Rust life stage An-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4954
+rust Life Stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+Rust life stage (i),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5948
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+Rust life stage i ?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5908
+Rust life stage i?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5908
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+Rust life stage I?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5908
+Rust Life Stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+Rust life stage i 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5206
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+0,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.5288
+Rust life stage Ib,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5513
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage ihi,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5872
+Rust life stage ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+Rust life stage ii ?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5574
+Rust life stage ii(?),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5480
+Rust life stage ii?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5574
+Rust life stage Ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+Rust Life Stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+amphispores,Amphioxiformes,http://purl.obolibrary.org/obo/NCBITaxon_2682553,0.7365
+Rust life stage IIb,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5349
+Rust life stage IIb,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5349
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+rust Life Stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+Rust life stage i ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5823
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage ii i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5890
+Rust life stage iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+Rust life stage iii ?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5466
+Rust life stage iii?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5466
+Rust life stage i ? Ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5677
+Rust life stage Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage I-II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5194
+Rust life stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+Rust life stage III?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5466
+Rust Life Stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+Rust life stage III (aecioid) microcyclic,bicyclic compound,http://purl.obolibrary.org/obo/CHEBI_33636,0.4643
+Rust life stage III (endocyclic),obsolete life cycle stage boundary,http://purl.obolibrary.org/obo/UBERON_0000103,0.4641
+Rust life stage (i),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5948
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage i & iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5167
+Rust life stage i (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5082
+Rust life stage i iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5542
+Rust life stage i iii?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5442
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+-iii,h minus,http://purl.obolibrary.org/obo/PATO_0001345,0.5116
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+iii?,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4462
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage i-iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5148
+Rust life stage ii ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5330
+Rust life stage iii i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5572
+Rust life stage i Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5542
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage I Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5542
+Rust life stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage (I) III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5236
+Rust life stage I & III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5167
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage I-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5148
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage II-II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5338
+Rust life stage IIII,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5227
+Rust Life Stage I & III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5167
+Rust Life Stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage i iii 0,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4836
+Rust life stage ii (iia),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4978
+rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage (ii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5533
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage (ii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5533
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage ii & iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5163
+Rust life stage ii (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5185
+Rust life stage ii iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5260
+Rust life stage ii iii ?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5170
+Rust life stage ii iii?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5170
+Rust life stage ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+(iii),D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.3684
+Rust life stage ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+iii ?,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4462
+Rust life stage ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage ii-iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5207
+Rust life stage ii. iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5460
+Rust life stage ii? iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5229
+Rust life stage iii ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5136
+Rust life stage iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+ii?,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4174
+Rust life stage i ii Ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5100
+Rust life stage ii ? Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5229
+Rust life stage ii Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5260
+Rust life stage ii III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5260
+Rust life stage ii-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5207
+Rust life stage Ii Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5260
+Rust life stage II iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5260
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage II-iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5207
+Rust life stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage (II) III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5106
+Rust life stage (II),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5533
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage (II),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5533
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage II & III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5163
+Rust life stage II (III),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5185
+Rust life stage II (III?),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5123
+Rust life stage II III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5260
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+(III),D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.3684
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+(III),D-tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32774,0.3684
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage II-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5207
+Rust life stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust. life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6404
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust Life Stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust Life Stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust Life Stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust Life Stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage i (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4787
+Rust life stage i (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5433
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage i ?; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4998
+Rust life stage i ii iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5077
+Rust life stage i ii; (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5180
+Rust life stage i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage i.; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5389
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage iii (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4912
+Rust life stage i ?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5908
+Ii ?,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4174
+Iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage I II III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5077
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage I-II-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4858
+Rust life stage III-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4992
+Rust Life Stage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6331
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust Life Stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+IIII,complex,http://purl.obolibrary.org/obo/PATO_0001504,0.5502
+Rust life stage i iii (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4711
+Rust life stage ii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4992
+Rust life stage ii (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5324
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage ii ii iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4955
+Rust life stage ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+ii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage i ii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4744
+Rust life stage i ii (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5119
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage i-ii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5117
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage ii iii (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4741
+Rust life stage iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4847
+Rust life stage iii (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5142
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage iii?; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4732
+Rust life stage i iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4667
+Rust life stage i iii (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4989
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage i iii?; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4769
+Rust life stage i-iii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5044
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage i? iii; (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5011
+Rust life stage i ii Iii (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4596
+Rust life stage ii (iii); (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5058
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage ii iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4752
+Rust life stage ii iii (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4973
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage ii-iii; (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5257
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage i ii Iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4652
+Rust life stage i ii Iii (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4811
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage ii iii iv,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4997
+Rust life stage Ii Iii Iv,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4997
+Rust life stage II-III-M,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5036
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+III (mostly III),hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4383
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+"""III"" sp.",premolar 3,http://purl.obolibrary.org/obo/UBERON_7500056,0.4885
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+III sp.,premolar 3,http://purl.obolibrary.org/obo/UBERON_7500056,0.4786
+Rust life stage ii iii x,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4601
+Rust life stage iii iv,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5193
+Rust life stage iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+iv,ion,http://purl.obolibrary.org/obo/CHEBI_24870,0.5483
+Rust life stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+IV,ion,http://purl.obolibrary.org/obo/CHEBI_24870,0.5483
+Rust life stage i iii X,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4819
+Rust life stage III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5624
+leptospores,neuropore,http://purl.obolibrary.org/obo/UBERON_0005077,0.6446
+Rust life stage III-M,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5320
+Rust life stage ii imi,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4647
+Rust life stage III (microcyclic,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4612
+aecial),aecium,http://purl.obolibrary.org/obo/FAO_0000056,0.5321
+Rust life stage III (& some I),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5229
+Rust life stage III sp.,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5701
+Rust life stage ii iv,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5494
+Rust Life Stage IILife Stage III,obsolete life cycle stage boundary,http://purl.obolibrary.org/obo/UBERON_0000103,0.5123
+Rust life stage II only,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5243
+Rust life stage II only (minute),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4784
+Rust life stage ii (or x) iii,obsolete life cycle stage boundary,http://purl.obolibrary.org/obo/UBERON_0000103,0.4293
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+rarely III,occurrence,http://purl.obolibrary.org/obo/PATO_0000057,0.4091
+Rust life stage II sp.,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5882
+Rust life stage ii x,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5152
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+Rust life stage II-X,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5184
+Rust life stage ii x iii,OBSOLETE 3 rapid growth stage,http://purl.obolibrary.org/obo/PO_0007004,0.4551
+Rust life stage II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5822
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage II-X-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4270
+Rust Life Stage Ist Life Stage III,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.5661
+rust Life Stage Ist Life Stage II,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.5799
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust Life Stage It Life Stage II,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.5572
+Rust Life Stage It Life Stage III,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.5445
+Rust Life Stage Iust Life Stage II,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.6037
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage iv,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5554
+Rust life stage jj,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5808
+Rust life stage macrocyclic,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5016
+autoecious,autogenous,http://purl.obolibrary.org/obo/PATO_0002316,0.6849
+Rust life stage M-III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4672
+Rust life stage o,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+Rust life stage o ?,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5759
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+Rust life stage o i,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6263
+Rust life stage o,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+i,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+Rust life stage O-I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5984
+Rust life stage o ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5503
+Rust life stage O-II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5050
+Rust life stage o (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4869
+Rust life stage o i ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5860
+Rust life stage o iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5278
+Rust life stage o i Ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5860
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+(II),tyrosinate(2-),http://purl.obolibrary.org/obo/CHEBI_32785,0.3762
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rust life stage o i (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5065
+Rust life stage o i iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5631
+Rust life stage o i Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5631
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage o (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4712
+Rust life stage o ii iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5009
+Rust life stage o ii Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5009
+Rust life stage (O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5898
+II),well,http://purl.obolibrary.org/obo/ENVO_00000026,0.3754
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+II-III,meiosis II,http://purl.obolibrary.org/obo/GO_0007135,0.4677
+Rust life stage o i (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4812
+Rust life stage o i (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5444
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage o i ii iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5249
+Rust life stage o i Ii (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4981
+Rust life stage o i Ii Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5249
+Rust life stage o ? I Ii Iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5244
+Rust life stage O I (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4812
+Rust life stage (O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5898
+I),well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4539
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III?,hypural 3,http://purl.obolibrary.org/obo/UBERON_2001562,0.4462
+Rust life stage O,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6030
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage o ii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4660
+Rust life stage o iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4507
+Rust life stage o iii (ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4837
+iii),sufficient,http://purl.obolibrary.org/obo/PATO_0001627,0.4047
+Rust life stage o i Ii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4853
+Rust life stage o i Iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4707
+Rust life stage o i Ii Iii (iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4667
+Rust life stage o ii Iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4540
+Rust life stage o i Ii Iii (ii iii),rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4729
+Rust life stage only II seen,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4728
+Rust life stages II & III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5143
+Rust life stage Telia,telium,http://purl.obolibrary.org/obo/FAO_0000057,0.4954
+Rust life stage Telial stage,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4730
+Rust life stage uredinioispores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.7053
+Rust life stage urediniospores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.7166
+Rust life stage Urediniospores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.7166
+Rust life stage x,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5419
+Rust life stage X,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5419
+Rust life stage x ii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4892
+rust Life Stage X,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5419
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage x iii,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.4619
+Rust life stage x iii?,OBSOLETE 3 rapid growth stage,http://purl.obolibrary.org/obo/PO_0007004,0.4825
+Rust life stage X,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5419
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life stage X,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5419
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life state I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6624
+Rust life state II,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6031
+Rust life state III,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5840
+Rust life state I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.6624
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Rust life tage I,rusty,http://purl.obolibrary.org/obo/PATO_0070059,0.5708
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+Rut life stage 0,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.5729
+I,well,http://purl.obolibrary.org/obo/ENVO_00000026,0.4871
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Ruts life stage II,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105,0.5191
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+saprophytic stage,saphenous nerve,http://purl.obolibrary.org/obo/UBERON_0002475,0.5636
+sarcocyst,sarcomere,http://purl.obolibrary.org/obo/GO_0030017,0.7197
+sclerotia,sclera,http://purl.obolibrary.org/obo/UBERON_0001773,0.8141
+Sclerotia,sclera,http://purl.obolibrary.org/obo/UBERON_0001773,0.8141
+second year,second year ice,http://purl.obolibrary.org/obo/ENVO_03000072,0.7045
+seeding,seedling,http://purl.obolibrary.org/obo/PO_0008037,0.8565
+Seeding,seedling,http://purl.obolibrary.org/obo/PO_0008037,0.8565
+seedling,seedling,http://purl.obolibrary.org/obo/PO_0008037,1.0000
+Seedling,seedling,http://purl.obolibrary.org/obo/PO_0008037,1.0000
+semi-adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.7540
+senescing,senescent,http://purl.obolibrary.org/obo/PATO_0001487,0.6731
+Senescing,senescent,http://purl.obolibrary.org/obo/PATO_0001487,0.6731
+Sexual stromata,stroma,http://purl.obolibrary.org/obo/UBERON_0003891,0.7024
+sexupara,prepupa,http://purl.obolibrary.org/obo/UBERON_0003142,0.5861
+soldier,Sar,http://purl.obolibrary.org/obo/NCBITaxon_2698737,0.4596
+sori,sorus,http://purl.obolibrary.org/obo/PO_0025359,0.6232
+spermagones,spermatid,http://purl.obolibrary.org/obo/CL_0000018,0.7940
+Spermagones.,spermatid,http://purl.obolibrary.org/obo/CL_0000018,0.7794
+Sphaceloma,sphagnum bog,http://purl.obolibrary.org/obo/ENVO_00002268,0.6712
+Sphecodes,sputum,http://purl.obolibrary.org/obo/UBERON_0007311,0.4846
+spore,spore,http://purl.obolibrary.org/obo/FAO_0000019,1.0000
+spores seem young,fungus form,http://purl.obolibrary.org/obo/BTO_0002261,0.5791
+Sporidia not formed,sporozoan form,http://purl.obolibrary.org/obo/BTO_0000749,0.5427
+sporing,sporangium,http://purl.obolibrary.org/obo/PO_0025094,0.6751
+sporocyst,sporocyst,http://purl.obolibrary.org/obo/BTO_0005891,1.0000
+Sporocyst,sporocyst,http://purl.obolibrary.org/obo/BTO_0005891,1.0000
+sporocyst; cercariae,cercaria,http://purl.obolibrary.org/obo/UBERON_0018388,0.7299
+sporophyte,sporophyte,http://purl.obolibrary.org/obo/BTO_0000735,1.0000
+sporophyte + male,sporophyte,http://purl.obolibrary.org/obo/BTO_0000735,0.8045
+sporophytes,sporophyte,http://purl.obolibrary.org/obo/BTO_0000735,0.9143
+stage I,mature stage,http://purl.obolibrary.org/obo/BTO_0005743,0.7401
+Stage I and III,E tetrad stage,http://purl.obolibrary.org/obo/PO_0001029,0.5871
+Stage II,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.6409
+stage III,death stage,http://purl.obolibrary.org/obo/UBERON_0000071,0.6294
+Stage II-III,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.5673
+Stage I,mature stage,http://purl.obolibrary.org/obo/BTO_0005743,0.7401
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+Stage III,death stage,http://purl.obolibrary.org/obo/UBERON_0000071,0.6294
+Teleutospore.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8702
+Stages 0-I,fully formed stage,http://purl.obolibrary.org/obo/UBERON_0000066,0.5839
+(stages) II & III,3 branch formation stage,http://purl.obolibrary.org/obo/PO_0007059,0.5636
+staminate,staminal nectary,http://purl.obolibrary.org/obo/BTO_0005941,0.6965
+statoblasts,statocyst,http://purl.obolibrary.org/obo/UBERON_0006583,0.6177
+Status teleutosporifera.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6509
+Status uredosporifera.,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7281
+stem,stem,http://purl.obolibrary.org/obo/PO_0009047,1.0000
+sterile,sterile,http://purl.obolibrary.org/obo/PATO_0000956,1.0000
+Sterile,sterile,http://purl.obolibrary.org/obo/PATO_0000956,1.0000
+strobilocercus,strobilus,http://purl.obolibrary.org/obo/PO_0025083,0.8676
+Stromata,stroma,http://purl.obolibrary.org/obo/UBERON_0003891,0.8650
+subadult,subpolar,http://purl.obolibrary.org/obo/ENVO_01000251,0.5980
+Sub-adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8157
+Subadult,subpolar,http://purl.obolibrary.org/obo/ENVO_01000251,0.5980
+Subadult ?,subpolar,http://purl.obolibrary.org/obo/ENVO_01000251,0.5453
+subadult,subpolar,http://purl.obolibrary.org/obo/ENVO_01000251,0.5980
+adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,1.0000
+subadult; subadult,subulate,http://purl.obolibrary.org/obo/PATO_0001954,0.5453
+tadpole,tadpole,http://purl.obolibrary.org/obo/UBERON_0002547,1.0000
+Tadpoles,tadpole,http://purl.obolibrary.org/obo/UBERON_0002547,0.9108
+eggs,egg,http://purl.obolibrary.org/obo/BTO_0000369,0.9121
+T & E,T cell,http://purl.obolibrary.org/obo/CL_0000084,0.5531
+Teleuto,Teleostei,http://purl.obolibrary.org/obo/NCBITaxon_32443,0.7127
+Teleuto- and some uredospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6412
+Teleuto- and some uredospores.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6315
+Teleutosporae,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7242
+Teleutospore,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8967
+teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8663
+(Teleutospores),teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8567
+Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8663
+Teleutospores.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8498
+Teleutospores only,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8148
+Teleutospores only.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7890
+Teleutospore stage,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7224
+Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.8663
+uredospores,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.9335
+telia,telson,http://purl.obolibrary.org/obo/BTO_0001353,0.7941
+Telia,telson,http://purl.obolibrary.org/obo/BTO_0001353,0.7941
+telial,telson,http://purl.obolibrary.org/obo/BTO_0001353,0.7725
+telial stage,E tetrad stage,http://purl.obolibrary.org/obo/PO_0001029,0.6030
+Telomorph,Teleostei,http://purl.obolibrary.org/obo/NCBITaxon_32443,0.7508
+tetrathyridia,Tetradontoidea,http://purl.obolibrary.org/obo/NCBITaxon_32517,0.7551
+tetrathyridium,Tetradontoidea,http://purl.obolibrary.org/obo/NCBITaxon_32517,0.6948
+; transitional,transition zone,http://purl.obolibrary.org/obo/PO_0003000,0.4993
+transitional,transition zone,http://purl.obolibrary.org/obo/PO_0003000,0.5372
+dev.;;,protoderm,http://purl.obolibrary.org/obo/PO_0006210,0.3874
+Tritonymph,trisomy,http://purl.obolibrary.org/obo/PATO_0001389,0.6188
+triungulin larva,larva,http://purl.obolibrary.org/obo/UBERON_0002548,0.7143
+trophozoite,trophozoite,http://purl.obolibrary.org/obo/BTO_0001397,1.0000
+Trophozoites,trophozoite,http://purl.obolibrary.org/obo/BTO_0001397,0.9155
+tube,tube,http://purl.obolibrary.org/obo/UBERON_0000025,1.0000
+Tubercularia,posterior tuberculum,http://purl.obolibrary.org/obo/BTO_0006432,0.7011
+Tubercularia stage,pharyngeal tubercle,http://purl.obolibrary.org/obo/UBERON_0006685,0.6892
+Type,variant,http://purl.obolibrary.org/obo/PATO_0001227,0.5075
+Type coll.,Col-1 cell,http://purl.obolibrary.org/obo/BTO_0003258,0.5085
+U,loin,http://purl.obolibrary.org/obo/BTO_0001505,0.4594
+Undetermined,undifferentiated,http://purl.obolibrary.org/obo/PATO_0002100,0.4357
+Undetermined Immature Stages,sexually immature stage,http://purl.obolibrary.org/obo/UBERON_0000112,0.6770
+Unspecified,obsolete unspecified,http://purl.obolibrary.org/obo/UBERON_0006336,0.6702
+uredial,urachus,http://purl.obolibrary.org/obo/UBERON_0002068,0.7064
+uredinia,urachus,http://purl.obolibrary.org/obo/UBERON_0002068,0.6977
+uredinia and telia,Teleostei,http://purl.obolibrary.org/obo/NCBITaxon_32443,0.5884
+uredinial,urachus,http://purl.obolibrary.org/obo/UBERON_0002068,0.5684
+Uredinial,urachus,http://purl.obolibrary.org/obo/UBERON_0002068,0.5684
+uredinial and telial,telson,http://purl.obolibrary.org/obo/BTO_0001353,0.5385
+Uredioniospores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.8926
+urediospores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.8982
+uredo,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8537
+(Uredo),uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7761
+(Uredo.),uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7565
+Uredo,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8537
+Uredo!,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8047
+Uredo.,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8376
+Uredo?,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8211
+uredo and teleuto,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.6736
+Uredo and Teleuto.,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.6492
+uredo- and teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6858
+Uredo and teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6892
+Uredo- and teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6858
+Uredo- and teleutospores.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6990
+(Uredo and Teleutospores),teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7249
+Uredo and Teleutospores.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7063
+Uredo- and Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6858
+Uredo es teleuto,Teleostei,http://purl.obolibrary.org/obo/NCBITaxon_32443,0.5880
+Uredo Form,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7234
+Uredo Form II,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.6548
+Uredo Oreselini,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7035
+Uredo primaria,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7477
+uredopsores.,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8662
+Uredosores,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8395
+Uredosporae et teleutosporae,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6576
+Uredosporae et teleutosporae.,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6339
+uredospores,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.9335
+Uredospores,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.9335
+Uredospores.,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.9163
+Uredospores and sometimes spermagones.,spermatid,http://purl.obolibrary.org/obo/CL_0000018,0.6886
+uredospores and teleutospores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.6769
+Uredospores and teleutospores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.6769
+Uredospores and Teleutospores,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.6769
+Uredospores and Teleutospores.,urediniospore,http://purl.obolibrary.org/obo/FAO_0000026,0.6817
+Uredospores only,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8608
+uredospore stage,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.8222
+Uredosprae et teleutosporae,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6674
+uredo stage,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7372
+Uredo stage,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7372
+Uredo-stage,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7329
+(Uredo Stage),uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.7101
+Uredo- teleuto- and some aecidiospores.,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.6361
+(Uredo & teleutospores),teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7159
+(Uredo & Teleutospores),teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7159
+Uredo- & Teleutospores,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6874
+Uredo und Teleuto,uredospore,http://purl.obolibrary.org/obo/BTO_0001417,0.6183
+Uredo und Teleuto (meist Mesosporen),teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.6668
+u. Teleutosporen!,teliospore,http://purl.obolibrary.org/obo/FAO_0000022,0.7264
+V,V-shaped,http://purl.obolibrary.org/obo/PATO_0002224,0.6781
+varies,amount,http://purl.obolibrary.org/obo/PATO_0000070,0.4709
+vegetative,vegetative bud,http://purl.obolibrary.org/obo/PO_0000058,0.7638
+Vegetative,vegetative bud,http://purl.obolibrary.org/obo/PO_0000058,0.7638
+VEGETATIVE STRUCTURE,vegetative stage,http://purl.obolibrary.org/obo/BTO_0005744,0.6812
+VI,virga,http://purl.obolibrary.org/obo/ENVO_01000837,0.6887
+VII,paravermic lobule VII,http://purl.obolibrary.org/obo/UBERON_0028924,0.5387
+VIII,paravermic lobule VIII,http://purl.obolibrary.org/obo/UBERON_0028925,0.5452
+white anamorph,melanophore,http://purl.obolibrary.org/obo/BTO_0001711,0.5767
+winter condition,cold season,http://purl.obolibrary.org/obo/ENVO_03000098,0.7694
+worker,work,http://purl.obolibrary.org/obo/PATO_0001026,0.5942
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+XI,xiphihumeralis,http://purl.obolibrary.org/obo/UBERON_0014838,0.5451
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+II,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4242
+X-II,x-shaped,http://purl.obolibrary.org/obo/PATO_0002429,0.4934
+XII,Jaculus,http://purl.obolibrary.org/obo/NCBITaxon_48867,0.4254
+x,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+X - iii,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5203
+X iii,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5901
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+X-iii,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5203
+X - III,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5203
+X III,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5901
+X,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5773
+III,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+X-III,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5203
+X-III.,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5227
+X.-III.,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.4469
+XIII,nitrate,http://purl.obolibrary.org/obo/CHEBI_17632,0.4699
+X ii,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5734
+iii,active,http://purl.obolibrary.org/obo/PATO_0002354,0.4640
+XIX,xiphiplastron,http://purl.obolibrary.org/obo/UBERON_0011661,0.5974
+XVII,internode,http://purl.obolibrary.org/obo/BTO_0000636,0.4550
+XXI,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.4767
+XXII,x-shaped,http://purl.obolibrary.org/obo/PATO_0002429,0.4952
+XXIX,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5538
+XXV,awn,http://purl.obolibrary.org/obo/PO_0025349,0.4984
+XXVIII,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5409
+XXX,x-shaped,http://purl.obolibrary.org/obo/PATO_0002429,0.5241
+XXXI,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5128
+XXXII,Xenarthra,http://purl.obolibrary.org/obo/NCBITaxon_9348,0.5112
+XXXIII,X bone,http://purl.obolibrary.org/obo/UBERON_4300090,0.5295
+young,young,http://purl.obolibrary.org/obo/PATO_0000309,1.0000
+Young,young,http://purl.obolibrary.org/obo/PATO_0000309,1.0000
+Young - 1.5 meters tall,height,http://purl.obolibrary.org/obo/PATO_0000119,0.6241
+young - 2 meters tall,height,http://purl.obolibrary.org/obo/PATO_0000119,0.6479
+young adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8741
+young Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.8741
+young female,female,http://purl.obolibrary.org/obo/PATO_0000383,0.7574
+Young fruit,fruit,http://purl.obolibrary.org/obo/PO_0009001,0.8067
+young fruit body,fruit body,http://purl.obolibrary.org/obo/BTO_0000487,0.8372
+young of the year,young,http://purl.obolibrary.org/obo/PATO_0000309,0.8171
+young of year,young,http://purl.obolibrary.org/obo/PATO_0000309,0.8007
+young perianth,perianth,http://purl.obolibrary.org/obo/PO_0009058,0.7108
+young | subadult | Adult,adult,http://purl.obolibrary.org/obo/BTO_0001043,0.6142
+zoea; megalopa,zoea stage,http://purl.obolibrary.org/obo/UBERON_0014857,0.6753

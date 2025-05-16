@@ -1,0 +1,648 @@
+input	mapped_values
++, -	Unknown
+?	Unknown
+`	Unknown
+1	Unknown
+10 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+10 juveniles	http://purl.obolibrary.org/obo/PATO_0001190
+10M,9F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+10 male 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+10 males, 6 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+11 female, 14 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+11 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+11 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+11 female, 9 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+11 machos | 9 hembras	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+11 males, 11 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+11 males, 4 females, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+12 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+12 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+12 female, 8 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+12 females, 2 males, 1 nymph	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001185
+13 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+14 female, 10 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+14 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+14 juveniles	http://purl.obolibrary.org/obo/PATO_0001190
+15 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+15 female, 22 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+15 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+15 male	http://purl.obolibrary.org/obo/PATO_0000384
+16 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+16 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+16 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+16 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+17 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+18 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+18 male, 20 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+19 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+19 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+19 female, 5 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 F	http://purl.obolibrary.org/obo/PATO_0000383
+1 female	http://purl.obolibrary.org/obo/PATO_0000383
+1 Female	http://purl.obolibrary.org/obo/PATO_0000383
+1 female, 10 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 female, 11 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 female, 13 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 female, 1 immature	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+1 Female, 1 Immature	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+1 female, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 Female, 1 Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 Female; 1 Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 female, 20 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 female 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 female, 32 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 38 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 3 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+1 female, 4 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 5 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 6 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 female, 7 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 females	http://purl.obolibrary.org/obo/PATO_0000383
+1  Hembras adulta	http://purl.obolibrary.org/obo/PATO_0000383
+1 immature	http://purl.obolibrary.org/obo/PATO_0001501
+1 Immature	http://purl.obolibrary.org/obo/PATO_0001501
+1 juvenile	http://purl.obolibrary.org/obo/PATO_0001190
+1M, 1F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1M,1F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1m, 1 nymph, 18 larva	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0001185
+1M, 2F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1M,2F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1M,3F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1M,3M	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+1M, 4F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1M,4F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 Macho|2 Hembras	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 macho (torete)	http://purl.obolibrary.org/obo/PATO_0000384
+1 male	http://purl.obolibrary.org/obo/PATO_0000384
+1 Male	http://purl.obolibrary.org/obo/PATO_0000384
+1 male 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 Male, 1 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 1 female, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 1 female, 2 immatures	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+1 male, 1 female, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 Male, 1 Female, 3 Immatures	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+1 male, 1 female, 3 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 1 female, 4 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 1 female, 5 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 1 female, 9 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 Male, 1 female, egg cases	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,Unknown,Unknown
+1 male, 1 female from the same collection ret	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,Unknown,Unknown,Unknown,Unknown,Unknown
+1 Male, 1 Immature	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001501
+1 male, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 1 larva	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001185
+1 male, 1 nymph, 17 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 1 nymph, 1 larva	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0001185
+1 male, 2 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 Male 2 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 2 female, 10 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 2 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 Male, 2 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 2 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 2 females, 6 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 Male, 2 Immatures	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001501
+1 male, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 3 female, 2 immatures	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+1 male, 3 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 Male, 3 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 3 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 3 females, 2 prosomas	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+1 male, 3 females, 3 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 3 females, 4 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 3 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001190
+1 male 4 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 4 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 4 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 5 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 5 females, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 5 females, 3 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+1 male, 8 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 male, 9 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+1 males	http://purl.obolibrary.org/obo/PATO_0000384
+1 ternero	Unknown
+1 Unknown	unknown
+1 Unknown | 1 Unknown	unknown,unknown
+2	
+20 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+21 females, 8 males	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+22 female, 7 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+23 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+25 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+25 female, 7 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+27 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+27 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2F	http://purl.obolibrary.org/obo/PATO_0000383
+2 female	http://purl.obolibrary.org/obo/PATO_0000383
+2 Female	http://purl.obolibrary.org/obo/PATO_0000383
+2 female, 10 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 female, 11 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 13 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 18 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 Female, 1 Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 20 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 27 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female. 3 male	Unknown,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female, 6 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 female 8 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 females	http://purl.obolibrary.org/obo/PATO_0000383
+2 Females	http://purl.obolibrary.org/obo/PATO_0000383
+2 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 females & 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 females, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 Females, 1 Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 females, 1 sub-male	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+2 females, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 females & 3 immatures	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+2 females, 3 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 females, 5 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 females, male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+2 Hembras adultas	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+2 immatures	http://purl.obolibrary.org/obo/PATO_0001501
+2 juveniles	http://purl.obolibrary.org/obo/PATO_0001190
+2 larvae, 1 female, 1 male, 1 nymph	http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001185
+2M	http://purl.obolibrary.org/obo/PATO_0000384
+2M,1F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2M,2F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2M,3F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 machos | 2 hembras	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 machos (toretes) 2 Hembras adultas	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+2 male	http://purl.obolibrary.org/obo/PATO_0000384
+2 male, 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 male, 2 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 male, 2 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001190
+2 male, 3 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 male, 4 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males	http://purl.obolibrary.org/obo/PATO_0000384
+2 Males	http://purl.obolibrary.org/obo/PATO_0000384
+2 males, 15 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 Males, 1 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, 1 female, 12 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 Males, 1 Female, 1 Sub-female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+2 Males, 1 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001190
+2 males, 2 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 Males, 2 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, 2 females, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 males, 2 immatures	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001501
+2 Males, 3 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, 4 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, 4 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001190
+2 Males; 5 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, 5 females, 11 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+2 males, 9 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 males, female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+2 terneras | 2 terneros	Unknown,Unknown
+2 undetermined	unknown
+2 undetermined; 3 male	unknown,http://purl.obolibrary.org/obo/PATO_0000384
+31 female, 6 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+34 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+36 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+36 female, 9 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+37 female, 15 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+3F	http://purl.obolibrary.org/obo/PATO_0000383
+3 Female	http://purl.obolibrary.org/obo/PATO_0000383
+3 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+3 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+3 female, 5 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+3 female, 7 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+3 female, 8 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+3 females	http://purl.obolibrary.org/obo/PATO_0000383
+3 Females	http://purl.obolibrary.org/obo/PATO_0000383
+3 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+3 females, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+3 females, 3 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+3 juveniles	http://purl.obolibrary.org/obo/PATO_0001190
+3M	http://purl.obolibrary.org/obo/PATO_0000384
+3M,1F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3M,2F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3M,3F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 Machos (toretes)	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+3 male	http://purl.obolibrary.org/obo/PATO_0000384
+3 male, 10 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 Male, 2 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 Male, 6 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 males	http://purl.obolibrary.org/obo/PATO_0000384
+3 Males	http://purl.obolibrary.org/obo/PATO_0000384
+3 males, 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 Males, 1 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 males, 2 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 males, 2 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+3 males, 3 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 males, 4 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 Males, 4 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 males, 5 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 males, 8 females, 8 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+3 males, female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+3 nymph, 1 male	http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0000384
+3 nymph, 2 larva	http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0001185
+3 undetermined	unknown
+40 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+41 female, 5 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+43 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+44 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+45 female, 28 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+49 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4F	http://purl.obolibrary.org/obo/PATO_0000383
+4 Female	http://purl.obolibrary.org/obo/PATO_0000383
+4 female, 11 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4 Female, 1 Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4 female. 2 male	Unknown,http://purl.obolibrary.org/obo/PATO_0000384
+4 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4 female, 7 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+4 females	http://purl.obolibrary.org/obo/PATO_0000383
+4 Females	http://purl.obolibrary.org/obo/PATO_0000383
+4 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+4 Hembras	http://purl.obolibrary.org/obo/PATO_0000383
+4 Hembras adultas	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+4 juvenile	http://purl.obolibrary.org/obo/PATO_0001190
+4 juveniles	http://purl.obolibrary.org/obo/PATO_0001190
+4M,1F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 male	http://purl.obolibrary.org/obo/PATO_0000384
+4 male 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 male, 2 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 male 3 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 male, 3 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 Male, 3 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 male 4 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 Males	http://purl.obolibrary.org/obo/PATO_0000384
+4 Males, 1 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 males, 1 female, 2 juveniles	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+4 males, 2 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 males, 3 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+4 Males, 3 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+51 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+57 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+59 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5F	http://purl.obolibrary.org/obo/PATO_0000383
+5 female	http://purl.obolibrary.org/obo/PATO_0000383
+5 Female	http://purl.obolibrary.org/obo/PATO_0000383
+5 female, 17 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5 female, 6 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5 female, 7 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5 females	http://purl.obolibrary.org/obo/PATO_0000383
+5 females, 1 juvenile & 7 males	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190,http://purl.obolibrary.org/obo/PATO_0000384
+5 females & 2 immatures	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+5 females, 2 males	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+5 immatures	http://purl.obolibrary.org/obo/PATO_0001501
+5 Immatures	http://purl.obolibrary.org/obo/PATO_0001501
+5 male 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+5 male, 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+5 males, 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+5 males, 1 female, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+5 males, 4 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+5 males, 8 females & 7 immatures	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+5 Unknown	unknown
+65 female, 6 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+6 female	http://purl.obolibrary.org/obo/PATO_0000383
+6 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+6 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+6 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+6 female, 9 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+6 females	http://purl.obolibrary.org/obo/PATO_0000383
+6 juveniles	http://purl.obolibrary.org/obo/PATO_0001190
+6 Machos | 6 Hermbras	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+6 male, 8 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+6 Males	http://purl.obolibrary.org/obo/PATO_0000384
+6 males, 3 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+6 Males, 4 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+7 female	http://purl.obolibrary.org/obo/PATO_0000383
+7 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+7 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+7 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+7 female, 4 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+7 female, 7 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+7 female, 8 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+7 females	http://purl.obolibrary.org/obo/PATO_0000383
+7 Females	http://purl.obolibrary.org/obo/PATO_0000383
+7 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+7 females, 7 juveniles	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+7 Males	http://purl.obolibrary.org/obo/PATO_0000384
+7 males, 4 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+8 female	http://purl.obolibrary.org/obo/PATO_0000383
+8 female, 19 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+8 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+8 female, 2 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+8 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+8 female, 6 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+8 female, 9 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+8 females	http://purl.obolibrary.org/obo/PATO_0000383
+8 females, 17 immatures	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001501
+8 females, 1 juvenile	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001190
+8 Females, 2 Males, 1 Immature	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0001501
+8 juveniles	http://purl.obolibrary.org/obo/PATO_0001190
+8 male	http://purl.obolibrary.org/obo/PATO_0000384
+8 male 2 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+8 male 5 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+8 Males	http://purl.obolibrary.org/obo/PATO_0000384
+8 Males, 1 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+8 Males, 6 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+8 males, 8 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+96 female, 10 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+9 female	http://purl.obolibrary.org/obo/PATO_0000383
+9 female, 11 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+9 female 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+9 female, 1 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+9 female, 3 male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+9 male	http://purl.obolibrary.org/obo/PATO_0000384
+9 male, 10 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+9 male, 1 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+9 male 2 female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+acari	Unknown
+adult	Unknown
+adult female	Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+adult female - alate queen	Unknown,http://purl.obolibrary.org/obo/PATO_0000383,Unknown,http://purl.obolibrary.org/obo/PATO_0001340,queen bee
+adult female (dark form)	Unknown,http://purl.obolibrary.org/obo/PATO_0000383,Unknown,Unknown
+adult female - dealate queen	Unknown,http://purl.obolibrary.org/obo/PATO_0000383,Unknown,Unknown,queen bee
+Adult females	Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+adult female - worker	Unknown,http://purl.obolibrary.org/obo/PATO_0000383,Unknown,worker bee
+adult male	Unknown,http://purl.obolibrary.org/obo/PATO_0000384
+Adult sex unknown	Unknown,Unknown,unknown
+adult unsexed	Unknown,Unknown
+autoecious	Unknown
+Aves	Unknown
+Both	Unknown
+could not be determinmed	Unknown,Unknown,Unknown,Unknown
+desconocido	unknown
+egg or egg sac	Unknown,Unknown,Unknown,Unknown
+egg with female inside	Unknown,Unknown,http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+f	http://purl.obolibrary.org/obo/PATO_0000383
+(F)	http://purl.obolibrary.org/obo/PATO_0000383
+F	http://purl.obolibrary.org/obo/PATO_0000383
+F?	Unknown
+Famale	Unknown
+fe	Unknown
+fe a.e	Unknown,Unknown
+Feale	Unknown
+Femael	Unknown
+femaie	Unknown
+Femal	Unknown
+; female	http://purl.obolibrary.org/obo/PATO_0000383
+;; female	http://purl.obolibrary.org/obo/PATO_0000383
+female	http://purl.obolibrary.org/obo/PATO_0000383
+female ?	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+female;;	http://purl.obolibrary.org/obo/PATO_0000383
+female?	Unknown
+female 	http://purl.obolibrary.org/obo/PATO_0000383
+femaLe	http://purl.obolibrary.org/obo/PATO_0000383
+Female	http://purl.obolibrary.org/obo/PATO_0000383
+FEmale	http://purl.obolibrary.org/obo/PATO_0000383
+FEMALE	http://purl.obolibrary.org/obo/PATO_0000383
+female(1)male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female (1) male (1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female (1), male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(1) male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(1), male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(1),male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(1) Male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(1)male(2)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(1) male(2)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(1), male(2)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(2)	http://purl.obolibrary.org/obo/PATO_0000383
+female (2) male (1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(3)male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female, 3 males	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female (5) male (3)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(5)male(5)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female(9)	http://purl.obolibrary.org/obo/PATO_0000383
+female(9)male(1)	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female and male	http://purl.obolibrary.org/obo/PATO_0000383,Unknown,http://purl.obolibrary.org/obo/PATO_0000384
+female, female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+female; female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+Female, Female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+female; female; female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+female; female; female; female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+female; female; male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+Female Holo	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+FemaleHolotype	Unknown
+female + male	http://purl.obolibrary.org/obo/PATO_0000383,Unknown,http://purl.obolibrary.org/obo/PATO_0000384
+female | male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female, male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female; male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female; male;;	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female;male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+Female & Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+Female Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+Female, Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+Female,Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+Female/Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+Female; Male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female + male (autoicous)	http://purl.obolibrary.org/obo/PATO_0000383,Unknown,http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+female + male [autoicous]	http://purl.obolibrary.org/obo/PATO_0000383,Unknown,http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+female, male, female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+female/male; female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+female; male; female	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+female; male; male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+Femaleparatype	Unknown
+Female Paratype	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+female (queen)	http://purl.obolibrary.org/obo/PATO_0000383,queen bee
+female, queen	http://purl.obolibrary.org/obo/PATO_0000383,queen bee
+female (Queen)	http://purl.obolibrary.org/obo/PATO_0000383,queen bee
+Female, queen	http://purl.obolibrary.org/obo/PATO_0000383,queen bee
+Female (Queen)	http://purl.obolibrary.org/obo/PATO_0000383,queen bee
+Female Queen	http://purl.obolibrary.org/obo/PATO_0000383,queen bee
+females	http://purl.obolibrary.org/obo/PATO_0000383
+Females	http://purl.obolibrary.org/obo/PATO_0000383
+# females: 1	Unknown,Unknown
+Females (3)	http://purl.obolibrary.org/obo/PATO_0000383
+Females (4)	http://purl.obolibrary.org/obo/PATO_0000383
+females, male	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+female; unknown	http://purl.obolibrary.org/obo/PATO_0000383,unknown
+Female, unmated	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+female (worker)	http://purl.obolibrary.org/obo/PATO_0000383,worker bee
+female, worker	http://purl.obolibrary.org/obo/PATO_0000383,worker bee
+Femlae	Unknown
+femnale	Unknown
+fenale	Unknown
+F/M	http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+F (Q)	http://purl.obolibrary.org/obo/PATO_0000383,Unknown
+glottid	Unknown
+gravid_female	Unknown
+gravid Female	Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+gynandromorph	gynandromorph
+gyne	gyne
+H	Unknown
+hembra	http://purl.obolibrary.org/obo/PATO_0000383
+Hembra	http://purl.obolibrary.org/obo/PATO_0000383
+Hembra y macho	http://purl.obolibrary.org/obo/PATO_0000383,Unknown,http://purl.obolibrary.org/obo/PATO_0000384
+hermaphrodite	http://purl.obolibrary.org/obo/PATO_0001340
+hermaphroditic	http://purl.obolibrary.org/obo/PATO_0001340
+Hermaphroditic	http://purl.obolibrary.org/obo/PATO_0001340
+female	http://purl.obolibrary.org/obo/PATO_0000383
+imm	Unknown
+immature	http://purl.obolibrary.org/obo/PATO_0001501
+Immature	http://purl.obolibrary.org/obo/PATO_0001501
+Indeterminado	Unknown
+Juv.	http://purl.obolibrary.org/obo/PATO_0001190
+juvenile	http://purl.obolibrary.org/obo/PATO_0001190
+Juvenile	http://purl.obolibrary.org/obo/PATO_0001190
+juvenile/fledgling	http://purl.obolibrary.org/obo/PATO_0001190,Unknown
+larva/juvenile	http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0001190
+m	http://purl.obolibrary.org/obo/PATO_0000384
+M	http://purl.obolibrary.org/obo/PATO_0000384
+ma	Unknown
+Macho	http://purl.obolibrary.org/obo/PATO_0000384
+Macho | Hembra	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Machos	http://purl.obolibrary.org/obo/PATO_0000384
+Made	Unknown
+mae	Unknown
+major worker	Unknown,worker bee
+Major worker	Unknown,worker bee
+; male	http://purl.obolibrary.org/obo/PATO_0000384
+male	http://purl.obolibrary.org/obo/PATO_0000384
+male ?	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+male;;	http://purl.obolibrary.org/obo/PATO_0000384
+male?	Unknown
+Male	http://purl.obolibrary.org/obo/PATO_0000384
+Male?	Unknown
+Male`	Unknown
+MALE	http://purl.obolibrary.org/obo/PATO_0000384
+male1	http://purl.obolibrary.org/obo/PATO_0000384
+Male (1) and Females (2)	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+male(1)female(1)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male (1) female (1)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male(1) female (1)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male(1) female(1)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male(1), female(1)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male(1)female(2)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male(1) female(2)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male (1) Female (2)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male (1) Females (2)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male (1) Females (3)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male, 2 Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male (2) Female (1)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male (2) Female (3)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male, 2 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male, 2 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male(3)	http://purl.obolibrary.org/obo/PATO_0000384
+male, 3 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male, 3 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male, 3 females, 6 nymphs	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0001185
+male, 4 females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male, 4 Females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male(7)	http://purl.obolibrary.org/obo/PATO_0000384
+male and female	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+Male and Female	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+Male and Females	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+Male and Females (2)	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+Male and Male	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000384
+male & female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male + female	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+male | female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male, female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male,female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male; female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male; female;;	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male;female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male, female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male & Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male, Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male/Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male; Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male/female/female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+male/female; female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+male; female; female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+male; female; female;;	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+Male, Female, Female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383
+Male, Female. Female	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+male; female; female; male; female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male, female, male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+male; female; male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384
+male; female; male; female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male, females	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+Male & Females (2)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male; female; Unknown	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383,unknown
+Male holo.	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+male; male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+male; male ?	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+male; male;;	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+Male, Male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+male; male; female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male;male;female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male; male; male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+Male, Male, Male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+male; male; male; male; male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+male; male; male; male; male; male; male; male; male; male	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000384
+Maleparatype	Unknown
+Male Paratype	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+males	http://purl.obolibrary.org/obo/PATO_0000384
+Males	http://purl.obolibrary.org/obo/PATO_0000384
+# males: 1	Unknown,Unknown
+Males (2) Females (2)	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+males, female	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+male; unknown	http://purl.obolibrary.org/obo/PATO_0000384,unknown
+male + young female	http://purl.obolibrary.org/obo/PATO_0000384,Unknown,Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+Masculino	http://purl.obolibrary.org/obo/PATO_0000384
+Maybe Female	Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+M, F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+M/F	http://purl.obolibrary.org/obo/PATO_0000384,http://purl.obolibrary.org/obo/PATO_0000383
+M/FF	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+M/FFF	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+M/FFFF	http://purl.obolibrary.org/obo/PATO_0000384,Unknown
+Mh	Unknown
+mites	Unknown
+mix	Unknown
+mixed	Unknown
+Mixed	Unknown
+mmale	Unknown
+MM/F	Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+MM/FF	Unknown,Unknown
+monoecious	Unknown
+msle	Unknown
+nest	Unknown
+Not Determined	Unknown,Unknown
+not recorded	Unknown,Unknown
+nymph female	http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0000383
+nymph male	http://purl.obolibrary.org/obo/PATO_0001185,http://purl.obolibrary.org/obo/PATO_0000384
+nymph unsexed	http://purl.obolibrary.org/obo/PATO_0001185,Unknown
+Peromyscus female	Unknown,http://purl.obolibrary.org/obo/PATO_0000383
+pupa	http://purl.obolibrary.org/obo/PATO_0001187
+queen	queen bee
+Queen	queen bee
+quenn	Unknown
+recorded as unknown	Unknown,Unknown,unknown
+#REF!	Unknown
+scrotal	Unknown
+sexes mixed	Unknown,Unknown
+SEXT	Unknown
+Sub-male	Unknown
+ternero juvenil	Unknown,Unknown
+U	Unknown
+uknown	Unknown
+Undet	Unknown
+# undet: 1	Unknown,Unknown
+undetermined	unknown
+unidentifiyed	Unknown
+Unknowable Sex	Unknown,Unknown
+unknown	unknown
+Unknown	unknown
+unknown sex	unknown,Unknown
+unknown; unknown	unknown,unknown
+unkown	Unknown
+Unkown	Unknown
+USDA-ARS	Unknown
+vacona	Unknown
+varios	Unknown
+Varios	Unknown
+worker	worker bee
+Worker	worker bee
+worker, alates	worker bee,http://purl.obolibrary.org/obo/PATO_0001340
+worker, male	worker bee,http://purl.obolibrary.org/obo/PATO_0000384
+worker, queen	worker bee,queen bee
+workers	worker bee
+worker,worker,worker	worker bee,worker bee,worker bee
+x	Unknown

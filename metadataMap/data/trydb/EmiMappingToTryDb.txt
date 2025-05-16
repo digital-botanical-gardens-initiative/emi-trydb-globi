@@ -1,0 +1,29 @@
+origUnit,mapUnit
+cm2 mg-1,https://purl.org/emi/unit#CentiM2-PER-MilliGM
+cm2mg-1,https://purl.org/emi/unit#CentiM2-PER-MilliGM
+cm2/mg,https://purl.org/emi/unit#CentiM2-PER-MilliGM
+cm3/mg,https://purl.org/emi/unit#CentiM3-PER-MilliGM
+d/y,https://purl.org/emi/unit#DAYS-PER-YEAR
+gC/m2,https://purl.org/emi/unit#GM-CARBON-PER-M2
+g(C)/m2/yr,https://purl.org/emi/unit#GM-CARBON-PER-M2
+H-SLA,https://purl.org/emi/unit#H-SLA
+kg N ha-1 y-1,https://purl.org/emi/unit#KiloGM-N-PER-HA-YR
+kgNha-1yr-1,https://purl.org/emi/unit#KiloGM-N-PER-HA-YR
+kJ m2 d?1,https://purl.org/emi/unit#KiloJ-PER-M2-DAY
+kJ m-2 day-1,https://purl.org/emi/unit#KiloJ-PER-M2-DAY
+log(lx),https://purl.org/emi/unit#log%28lx%29
+meq/100 g,https://purl.org/emi/unit#MEQ-PER-100GM
+mg/100g,https://purl.org/emi/unit#MilliGM-PER-100GM
+mm mm-1,https://purl.org/emi/unit#MilliM-PER-MilliM
+mm/mm,https://purl.org/emi/unit#MilliM-PER-MilliM
+mg N/g d.w./day,https://purl.org/emi/unit#MilliGM-PER-GM-DAY
+mgN/kg/day,https://purl.org/emi/unit#MilliGM-PER-KiloGM-DAY
+MJm-2d-1,https://purl.org/emi/unit#MegaJ-PER-M2-DAY
+mm month-1,https://purl.org/emi/unit#MilliM-PER-MONTH
+mm/month,https://purl.org/emi/unit#MilliM-PER-MONTH
+mol N/L,https://purl.org/emi/unit#MOL-N-PER-L
+(uE m2 s-1),https://purl.org/emi/unit#uE-m2-per-sec
+ug N/g soil/year,https://purl.org/emi/unit#MicroGM-PER-GM-YEAR
+mm/mmВ,https://purl.org/emi/unit#MilliM-PER-MilliM2
+mm/mm²,https://purl.org/emi/unit#MilliM-PER-MilliM2
+Nreleased/acre,https://purl.org/emi/unit#Nreleased-per-acre
