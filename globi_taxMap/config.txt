@@ -1,5 +1,5 @@
 [input tsv files]
-verbatim_file = /home/drishti/Documents/Projects/DBGI/globi/newVersion_20250113/verbatim-interactions.tsv.gz
+verbatim_file = ../data/verbatim-interactions.tsv.gz
 wd_sparql_file = ../wd_taxMap/wdTax_SPARQL_20250516.txt.gz
 wd_lineage_file = ../wd_taxMap/wdTax_SPARQL_lineage_filtered_aligned_20250516.txt.gz
 wd_repeats_file = ../wd_taxMap/wdTax_duplicates_20250516.txt
