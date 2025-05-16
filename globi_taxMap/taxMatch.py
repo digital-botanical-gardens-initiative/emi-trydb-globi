@@ -211,7 +211,7 @@ def process_row(row):
             row["order"] = tempVar[3]
             row["phylum"] = tempVar[4]
             row["kingdom"] = tempVar[5]
-            print(best_wd_id)
+            #print(best_wd_id)
         else:
             best_wd_id = None
         status = "ID-MATCHED-BY-NAME-DUPL-duplicate" if tempVar else "ID-MATCHED-BY-NAME-DUPL-mismatch"
@@ -242,7 +242,7 @@ mask = verbatim_globi_df["Match_Status"] == "ID-NOT-PRESENT"
 verbatim_globi_df.loc[mask] = verbatim_globi_df.loc[mask].apply(process_row, axis=1).apply(pd.Series) #same df
 verbatim_globi_df_backup4= verbatim_globi_df.copy()
 end=time.time() - start
-print(end)
+#print(end)
 
 today_str = datetime.today().strftime('%Y%m%d') #date suffix
 outputFileX = f"{outputFile}_{today_str}.txt"

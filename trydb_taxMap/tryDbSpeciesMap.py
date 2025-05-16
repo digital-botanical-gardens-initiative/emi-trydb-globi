@@ -24,7 +24,7 @@ def process_row(row):
     row["WdID"] = best_wd_id
     row["Match_Status"] = status
     row["kingdom"] = kingdomV
-    print(row)
+    #print(row)
     return row
 
 
