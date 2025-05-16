@@ -1,0 +1,4 @@
+[input tsv files]
+wd_lineage_file = ../wd_taxMap/wdTax_SPARQL_lineage_filtered_aligned_20250516.txt.gz
+tryDb_species_file = ../data/Try20243712146549_TRY6.0_SpeciesList_TaxonomicHarmonization.csv
+output_file = wdTax_TRYdb
