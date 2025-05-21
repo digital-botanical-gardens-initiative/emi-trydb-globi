@@ -99,6 +99,7 @@ def add_entity_to_graph(entity, entityID, subject, predicate, rdftype, ns, graph
         tripCount = mbg.add_entity(graph, subject, predicate, rdftype, ent, modEntityName, desigSet, "URI-FETCHED-1a", entity, tripCount)
     else: # none available
         tripCount = mbg.listTerms(entity, graph, subject, predicate, rdftype, ns, desigSet, tripCount)
+    return tripCount
 
 
 # Function to generate full set of triples. Generate RDF triples in compact Turtle format using batches of rows and rdflib for serialization.
