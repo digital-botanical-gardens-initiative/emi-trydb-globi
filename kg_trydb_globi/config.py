@@ -10,6 +10,7 @@ if os.path.exists(configFile):       #if config file is available
     config.read(configFile)
     bpFileName = config.get('accessory files', 'bp_fileName')
     lsFileName = config.get('accessory files', 'ls_fileName')
+    bsFileName = config.get('accessory files', 'bs_fileName')
 
 # Declare dictionaries to be used globally. It is best to combine bodyParts and lifeStages in one file in one file.
 keyCol="InputTerm"
