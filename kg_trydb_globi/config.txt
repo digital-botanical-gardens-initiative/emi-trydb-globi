@@ -1,0 +1,18 @@
+[input tsv files]
+trydb_tsv = ../data/40340.txt.gz
+globi_tsv = ../data/verbatim-interactions.tsv.gz
+taxonomy_tsv = ../qlever/data/taxonomy.tsv.gz
+
+[accessory files]
+enpkg_wd = ../data/enpkg_wd_pfId.csv.gz
+trydb_wd = ../data/wdTax_TRYdb_20250521.txt.gz
+globi_wd = ../data/wdTax_GloBI_20250516.txt
+bp_fileName = ../metadataMap/data/globi/correctedBodyPartNamesGlobi.csv
+ls_fileName = ../metadataMap/data/globi/correctedLifeStageNamesGlobi.csv
+dictFileNameQudt = ../metadataMap/data/trydb/qudtMappingToTryDb.txt
+dictFileNameEmi = ../metadataMap/data/trydb/EmiMappingToTryDb.txt
+
+[output files]
+trydb_ttl = ../data/trydb_output.ttl.gz
+globi_ttl = ../data/globi_output.ttl.gz
+taxonomy_ttl = ../data/taxonomy_output.ttl.gz
