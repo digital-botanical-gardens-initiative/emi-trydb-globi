@@ -3,7 +3,7 @@ import re
 import sys
 import os
 from rdflib import URIRef, Literal, Namespace, RDF, RDFS, XSD, DCTERMS, Graph, BNode
-from config import eURIDict, eURISet, eNamesDict, eNamesSet
+from config import eURIDict, eURISet, eNamesDict, eNamesSet, bsFileName
 import data_processing as dp
 
 
@@ -19,7 +19,7 @@ def add_entity(graph, subject, predicate, rdftype, entityX, entity_name, desigSe
         desigSet.add(entityX)
     return tripCount
 
-def lookup_term(termOr, graph, subject, predicate, rdftype, ns, term, pre_post_fix, desigSet):
+def lookup_term(termOr, graph, subject, predicate, rdftype, ns, term, pre_post_fix, desigSet, tripCount):
     emiBox = Namespace("https://purl.org/emi/abox#")
     term = preprocess_term(term)
     if term in eURISet:
@@ -244,14 +244,10 @@ def preprocess_term(term):
 
 # Functions for mapping biological gender - Match the biological gender values
 def map_terms_to_values(term):
-    # File paths
-    dataFile = "../ontology/data/globi/correctedBiologicalSexNames.tsv"
-    # Load data
-    mapDf = pd.read_csv(dataFile, sep="\t", quoting=3, dtype=str)
-
-    # declare and fill dictionary
+    #dataFile = "../data/globi/correctedBiologicalSexNames.tsv"
+    mapDf = pd.read_csv(bsFileName, sep="\t", quoting=3, dtype=str)
     mapping_dict = dict(zip(mapDf['input'].str.lower(), mapDf['output']))
-
+    
     # conjunction patterns 
     conjunction_patterns1 = re.compile(r'\b(and|y)\b', re.IGNORECASE)
     conjunction_patterns2 = re.compile(r'\b(or)\b', re.IGNORECASE)
