@@ -8,13 +8,13 @@ from datetime import datetime
 
 # align directly by name - reliable because TRY-db has already standardized names
 def process_row(row):
-    if row['AccSpeciesName'] in wd_name_to_id_set:
-        tempVar = wd_name_to_id.get((row['AccSpeciesName'],'Plantae'))
+    if row['TRY_AccSpeciesName'] in wd_name_to_id_set:
+        tempVar = wd_name_to_id.get((row['TRY_AccSpeciesName'],'Plantae'))
         if tempVar:
             best_wd_id = tempVar
             kingdomV = "Plantae"
         else: 
-            best_wd_id = wd_name_to_id.get((row['AccSpeciesName'],np.nan))
+            best_wd_id = wd_name_to_id.get((row['TRY_AccSpeciesName'],np.nan))
             kingdomV = "None"
         status = "ID-MATCHED-BY-NAME-direct"
     else:
@@ -61,13 +61,13 @@ wd_name_to_id = (
 
 # process tryDb file to get wd Ids
 tryDb_df = pd.read_csv(tryDbFile, usecols=['TRY_SpeciesName','TRY_AccSpeciesName'], sep=",", dtype=str, encoding="iso-8859-1") #read source
-d = { 'AccSpeciesName' : list(set(tryDb_df['TRY_AccSpeciesName']))}
+d = { 'TRY_AccSpeciesName' : list(set(tryDb_df['TRY_AccSpeciesName']))}
 tryDb_df = pd.DataFrame(d)
 tryDb_dfX = tryDb_df.apply(process_row, axis=1).apply(pd.Series) #same df
 
 today_str = datetime.today().strftime('%Y%m%d') #date suffix
-outputFileX = f"{outputFile}_{today_str}.txt"
-tryDb_dfX.to_csv(outputFileX, sep="\t", index=False)
+outputFileX = f"{outputFile}_{today_str}.txt.gz"
+tryDb_dfX.to_csv(outputFileX, sep="\t", index=False, compression='gzip')
 
 
 
