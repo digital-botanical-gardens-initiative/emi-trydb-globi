@@ -118,24 +118,28 @@ def generate_rdf_in_batches(input_csv_gz, join_csv, globi_wd, output_file, join_
     print("Sent the arguments. Process started")
 
     # load mapping of GloBI ID to WD
-    wd_map_df = pd.read_csv(globi_wd, sep=",", dtype=str, usecols = ['TaxonId', 'TaxonName', 'Mapped_ID_WD', 'Mapped_Value']) 
-    wd_map_df.replace({"Wikidata:" : '', '"': ''}, regex=True, inplace=True)
+    wd_map_df = pd.read_csv(globi_wd, sep=",", dtype=str, usecols=['TaxonId', 'TaxonName', 'Mapped_ID_WD', 'Mapped_Value'])
+    wd_map_df.replace({"Wikidata:": '', '"': ''}, regex=True, inplace=True)
+    wd_map_df = wd_map_df.dropna(subset=["Mapped_ID_WD"]).query("Mapped_ID_WD != ''") # filter out rows with missing or empty Mapped_ID_WD
+
+    # create dictionaries for ids and names
     wd_map_dict_id = (
     wd_map_df.dropna(subset=["TaxonId"])
-        .query("TaxonId != ''")  # Remove empty strings
+        .query("TaxonId != ''") # remove empty strings
         .set_index("TaxonId")[["Mapped_ID_WD", "Mapped_Value"]]
         .apply(tuple, axis=1)
         .to_dict()
     )
-
+    
     wd_map_dict_name = (
-        wd_map_df.dropna(subset=["TaxonName"])
-        .query("TaxonName != ''")  # Remove empty strings
+    wd_map_df.dropna(subset=["TaxonName"])
+        .query("TaxonName != ''") # remove empty strings
         .set_index("TaxonName")[["Mapped_ID_WD", "Mapped_Value"]]
         .apply(tuple, axis=1)
         .to_dict()
     )
-    
+
+    # create sets for easy lookup (ids and names)
     wd_map_set_id = set(wd_map_df["TaxonId"].dropna().replace("", None).dropna())
     wd_map_set_name = set(wd_map_df["TaxonName"].dropna().replace("", None).dropna())
 
@@ -232,8 +236,8 @@ def generate_rdf_in_batches(input_csv_gz, join_csv, globi_wd, output_file, join_
                     if not pd.notna(row["targetTaxonIdMapped"]):
                         continue
                     if(row["sourceTaxonIdMapped"] == row["targetTaxonIdMapped"]):
-                        print("\t".join(row.astype(str)))  # Convert all values to strings and join
-                        print(row, "SAME-SOURCE-TARGET", sep="\t")
+                        #print("\t".join(row.astype(str)))  # Convert all values to strings and join
+                        #print(row, "SAME-SOURCE-TARGET", sep="\t")
                         continue
                     # To delete after the code-cleaning ######################################################################
                     #print(type(row["sourceTaxonIdMapped"]))
@@ -328,18 +332,18 @@ def generate_rdf_in_batches(input_csv_gz, join_csv, globi_wd, output_file, join_
 		            # first read the file in which the mappings are stored, followed by triples generation
 		            # for body part names
                     if (dp.is_none_na_or_empty(row['sourceBodyPartName']) or dp.is_none_na_or_empty(row['sourceBodyPartId'])) and dp.is_none_na_or_empty(source_taxon_uri):
-                        print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
+                        #print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
                         tripCount = add_entity_to_graph(row['sourceBodyPartName'],row['sourceBodyPartId'],source_taxon_uri,emi.hasAnatomicalEntity,emi.AnatomicalEntity, "ANATOMICAL_ENTITY", graph, bodyPartSet, tripCount)
                     if (dp.is_none_na_or_empty(row['targetBodyPartName']) or dp.is_none_na_or_empty(row['targetBodyPartId'])) and dp.is_none_na_or_empty(target_taxon_uri):
-                        print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
+                        #print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
                         tripCount = add_entity_to_graph(row['targetBodyPartName'],row['targetBodyPartId'],target_taxon_uri,emi.hasAnatomicalEntity,emi.AnatomicalEntity, "ANATOMICAL_ENTITY", graph, bodyPartSet, tripCount)
 		            
 		            # for life stage names
                     if (dp.is_none_na_or_empty(row['sourceLifeStageName']) or dp.is_none_na_or_empty(row['sourceLifeStageId'])) and dp.is_none_na_or_empty(source_taxon_uri):
-                        print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
+                        #print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
                         tripCount = add_entity_to_graph(row['sourceLifeStageName'],row['sourceLifeStageId'],source_taxon_uri,emi.hasDevelopmentalStage, emi.DevelopmentalStage, "DEVELOPMENTAL_STAGE", graph, lifeStageSet, tripCount)
                     if (dp.is_none_na_or_empty(row['targetLifeStageName']) or dp.is_none_na_or_empty(row['targetLifeStageId'])) and dp.is_none_na_or_empty(target_taxon_uri):
-                        print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
+                        #print("NAMES",row["sourceTaxonId"], row["sourceTaxonName"], row["targetTaxonId"], row["targetTaxonName"], sep="\t")
                         tripCount = add_entity_to_graph(row['targetLifeStageName'],row['targetLifeStageId'],target_taxon_uri,emi.hasDevelopmentalStage, emi.DevelopmentalStage, "DEVELOPMENTAL_STAGE", graph, lifeStageSet, tripCount)
 		
 		            #for biological sex
@@ -382,7 +386,6 @@ def generate_rdf_in_batches(input_csv_gz, join_csv, globi_wd, output_file, join_
 
 	        #serialize the graph for the batch and write to the file
             with gzip.open(output_file, "at", encoding="utf-8") as out_file:  # Append mode
-                    print("written triples for",)
                     out_file.write(graph.serialize(format="turtle_custom"))
 	        # Clear the graph to free memory
             del graph
