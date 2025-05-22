@@ -9,7 +9,7 @@ import data_processing as dp
 
 # add entity specific for body parts names, life stage names and biological sex
 def add_entity(graph, subject, predicate, rdftype, entityX, entity_name, desigSet, fetchtype, termOr, tripCount):
-    print(subject, termOr, entityX, fetchtype, sep="\t")
+    #print(subject, termOr, entityX, fetchtype, sep="\t")
     graph.add((subject, predicate, entityX))
     tripCount += 1
     if entityX not in desigSet:
@@ -44,8 +44,8 @@ def lookup_term(termOr, graph, subject, predicate, rdftype, ns, term, pre_post_f
             ent = emiBox[f"{ns}-{dp.format_uri(modEntityName)}"]
 #            print(term, ns, modEntityName, "URI-FETCHED-1a", sep="\t")
             tripCount = add_entity(graph, subject, predicate, rdftype, ent, modEntityName, desigSet, "URI-FETCHED-1a", termOr, tripCount)
-        else:
-            print(termOr, ns, term, "NOTHING-AVAILABLE", sep="\t")
+#        else:
+#            print(termOr, ns, term, "NOTHING-AVAILABLE", sep="\t")
     return tripCount
 
 
@@ -141,7 +141,7 @@ def countTerms(term,mapping_dict,mapping_set):
 
 # Functions for mapping biological gender - Match the biological gender values
 def map_terms_to_valuesX(term,mapping_dict):
-    print(term)
+    #print(term)
     # conjunction patterns 
     conjunction_patterns1 = re.compile(r'\b(and|y)\b', re.IGNORECASE)
     conjunction_patterns2 = re.compile(r'\b(or)\b', re.IGNORECASE)
@@ -230,7 +230,7 @@ def map_terms_to_valuesX(term,mapping_dict):
         #print(termX, "\t", countX)
     # Use dictionary comprehension to filter out pairs with value 0
     filtered_dict = {k: v for k, v in mapping_count.items() if v != 0}
-    print(filtered_dict)
+    #print(filtered_dict)
 
 
 # Preprocessing functions - Lowercase, autocorrect, and remove extra characters (plural)
