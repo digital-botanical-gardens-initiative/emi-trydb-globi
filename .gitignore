@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*/__pycache__/
+*/*/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -167,8 +169,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ruff stuff:
-.ruff_cache/
+# Temp folders and files
 
-# PyPI configuration file
-.pypirc
+temp/
+ontology/data/backup/
+ontology/data/globi/temp/
+ontology/data/trydb/temp/
+treeCurrent.txt
+*.swp
+qlever/data/accessory/*.txt
+qlever/data/accessory/*.csv
+node_modules
